@@ -1,0 +1,6 @@
+# Dependências para gerar-livro-pdf.py
+# Usado para manipulação e numeração de páginas do PDF gerado
+pypdf==6.10.2
+reportlab==4.5.0
+# Dependência do reportlab para renderização de imagens
+pillow>=9.0.0

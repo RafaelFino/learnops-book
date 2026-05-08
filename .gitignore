@@ -1,0 +1,7 @@
+# Arquivos gerados — não versionar
+*.pdf
+_tmp_livro_print.html
+
+# Python
+__pycache__/
+*.pyc
