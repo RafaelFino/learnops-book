@@ -1,6 +1,6 @@
 # Glossário — Letras J a P
 
-[← Voltar ao índice do Glossário](00-glossário.md) · [← Anterior: E-I](00-glossário-e-i.md)
+[← Voltar ao índice do Glossário](00-glossario.md) · [← Anterior: E-I](00-glossario-e-i.md)
 
 ---
 
@@ -192,4 +192,4 @@ Linguagem de programação interpretada, de alto nível, criada por Guido van Ro
 
 ---
 
-[← Voltar ao índice do Glossário](00-glossário.md) · [← Anterior: E-I](00-glossário-e-i.md) · [Próximo: Q-Z →](00-glossário-q-z.md)
+[← Voltar ao índice do Glossário](00-glossario.md) · [← Anterior: E-I](00-glossario-e-i.md) · [Próximo: Q-Z →](00-glossario-q-z.md)

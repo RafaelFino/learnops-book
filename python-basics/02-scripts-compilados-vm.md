@@ -1,6 +1,6 @@
 # 02 — Diferenças entre Scripts, Compilados e VM
 
-[← Anterior: Introdução à Programação](01-introdução-programação.md) · [Glossário](00-glossário.md) · [Próximo: Preparação do Ambiente →](03-preparacao-ambiente.md)
+[← Anterior: Introdução à Programação](01-introducao-programacao.md) · [Glossário](00-glossario.md) · [Próximo: Preparação do Ambiente →](03-preparacao-ambiente.md)
 
 ---
 
@@ -26,7 +26,7 @@ Essas três opções correspondem exatamente às três formas de executar progra
 
 ## 1. Programas Compilados
 
-Um [compilador](00-glossário-a-d.md#compilador) traduz **todo o código de uma vez** para linguagem de máquina, antes de executar. O resultado é um arquivo executável que o computador roda diretamente.
+Um [compilador](00-glossario-a-d.md#compilador) traduz **todo o código de uma vez** para linguagem de máquina, antes de executar. O resultado é um arquivo executável que o computador roda diretamente.
 
 **Analogia:** É como traduzir um livro inteiro para outro idioma antes de publicá-lo. O processo de tradução demora, mas depois o livro pode ser lido rapidamente por qualquer pessoa que fale aquele idioma.
 
@@ -47,7 +47,7 @@ Um [compilador](00-glossário-a-d.md#compilador) traduz **todo o código de uma 
 
 ## 2. Scripts (Programas Interpretados)
 
-Um [interpretador](00-glossário-e-i.md#interpretador) lê e executa o código **linha por linha**, na hora, sem precisar traduzir tudo antes. O código-fonte é o próprio programa.
+Um [interpretador](00-glossario-e-i.md#interpretador) lê e executa o código **linha por linha**, na hora, sem precisar traduzir tudo antes. O código-fonte é o próprio programa.
 
 **Analogia:** É como ter um tradutor simultâneo ao seu lado que traduz cada frase na hora em que você fala. Não precisa esperar a tradução do texto inteiro — a comunicação acontece em tempo real.
 
@@ -79,13 +79,13 @@ Para iniciantes, isso é uma grande vantagem: você escreve, executa e vê o res
 
 ## 3. Programas em Máquina Virtual (VM)
 
-Algumas linguagens usam uma abordagem intermediária: o código é compilado para um formato intermediário chamado [bytecode](00-glossário-a-d.md#bytecode), que é executado por uma **máquina virtual** — um programa que simula um computador dentro do computador.
+Algumas linguagens usam uma abordagem intermediária: o código é compilado para um formato intermediário chamado [bytecode](00-glossario-a-d.md#bytecode), que é executado por uma **máquina virtual** — um programa que simula um computador dentro do computador.
 
 **Analogia:** É como traduzir um livro para um idioma universal (esperanto, por exemplo) que um assistente especial consegue ler e traduzir para qualquer outro idioma. O livro é traduzido uma vez para o idioma intermediário, e depois o assistente (máquina virtual) traduz para o idioma do computador.
 
 **Exemplos:**
-- **Java** — usa a JVM ([Java Virtual Machine](00-glossário-j-p.md#jvm-java-virtual-machine))
-- **C#** — usa o [.NET](00-glossário-j-p.md#net) (CLR — Common Language Runtime)
+- **Java** — usa a JVM ([Java Virtual Machine](00-glossario-j-p.md#jvm-java-virtual-machine))
+- **C#** — usa o [.NET](00-glossario-j-p.md#net) (CLR — Common Language Runtime)
 
 **Vantagens:**
 - O mesmo programa roda em diferentes sistemas operacionais (Windows, Linux, Mac) sem recompilar
@@ -204,4 +204,4 @@ R: É uma plataforma de desenvolvimento da Microsoft, similar à JVM do Java. Li
 
 ---
 
-[← Anterior: Introdução à Programação](01-introdução-programação.md) · [Glossário](00-glossário.md) · [Próximo: Preparação do Ambiente →](03-preparacao-ambiente.md)
+[← Anterior: Introdução à Programação](01-introducao-programacao.md) · [Glossário](00-glossario.md) · [Próximo: Preparação do Ambiente →](03-preparacao-ambiente.md)

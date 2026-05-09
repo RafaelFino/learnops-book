@@ -1,6 +1,6 @@
 # 10 — Indentacao e Escopo de Blocos de Código
 
-[<- Anterior: Manipulação de Strings](09-manipulação-strings.md) | [Glossário](00-glossário.md) | [Próximo: Operadores ->](11-operadores.md)
+[<- Anterior: Manipulação de Strings](09-manipulacao-strings.md) | [Glossário](00-glossario.md) | [Próximo: Operadores ->](11-operadores.md)
 
 ---
 
@@ -12,7 +12,7 @@ Pense na indentacao como a organização de itens dentro de caixas. Quando você
 
 Este módulo prepara você para os proximos módulos (condicionais, loops e funções), que dependem diretamente da indentacao para funcionar.
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) sempre que encontrar um termo desconhecido.
+> **Dica:** Consulte o [Glossário](00-glossario.md) sempre que encontrar um termo desconhecido.
 
 ---
 
@@ -27,7 +27,7 @@ Este módulo prepara você para os proximos módulos (condicionais, loops e fun�
 
 ## O que e Indentacao?
 
-[Indentacao](00-glossário-e-i.md#indentacao) e o espacamento a esquerda de uma linha de código. Em Python, esse espacamento não e apenas visual — ele define a **estrutura** do programa.
+[Indentacao](00-glossario-e-i.md#indentacao) e o espacamento a esquerda de uma linha de código. Em Python, esse espacamento não e apenas visual — ele define a **estrutura** do programa.
 
 ### Python vs outras linguagens
 
@@ -306,8 +306,8 @@ R: Provavelmente sim, e isso e completamente normal. Erros de indentacao sao os 
 
 Os exercícios deste módulo estão em um arquivo separado para facilitar a consulta:
 
-**[Acessar Exercícios do Módulo 10](10-indentacao-escopo-exercícios.md)**
+**[Acessar Exercícios do Módulo 10](10-indentacao-escopo-exercicios.md)**
 
 ---
 
-[<- Anterior: Manipulação de Strings](09-manipulação-strings.md) | [Glossário](00-glossário.md) | [Próximo: Operadores ->](11-operadores.md)
+[<- Anterior: Manipulação de Strings](09-manipulacao-strings.md) | [Glossário](00-glossario.md) | [Próximo: Operadores ->](11-operadores.md)

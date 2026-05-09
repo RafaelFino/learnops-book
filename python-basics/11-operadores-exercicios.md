@@ -1,6 +1,6 @@
 # Exercícios — Módulo 11: Operadores Logicos e Matematicos
 
-[<- Voltar ao Módulo 11](11-operadores.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 11](11-operadores.md) | [Glossário](00-glossario.md)
 
 > **Como usar estes exercícios:**
 > 1. Leia o enunciado com atenção
@@ -526,4 +526,4 @@ print(f"Valor final: R$ {final_amount}")
 
 ---
 
-[<- Voltar ao Módulo 11](11-operadores.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 11](11-operadores.md) | [Glossário](00-glossario.md)

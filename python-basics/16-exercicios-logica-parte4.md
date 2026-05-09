@@ -1,6 +1,6 @@
 # Exercícios de Lógica — Parte 4: Busca e Filtragem
 
-[<- Parte 3](16-exercícios-lógica-parte3.md) | [Voltar ao Módulo 16](16-exercícios-lógica.md) | [Parte 5 ->](16-exercícios-lógica-parte5.md)
+[<- Parte 3](16-exercicios-logica-parte3.md) | [Voltar ao Módulo 16](16-exercicios-logica.md) | [Parte 5 ->](16-exercicios-logica-parte5.md)
 
 ---
 
@@ -242,4 +242,4 @@ print(f"Resultado: {unique_sorted([1, 1, 1])}")
 
 ---
 
-[<- Parte 3](16-exercícios-lógica-parte3.md) | [Voltar ao Módulo 16](16-exercícios-lógica.md) | [Parte 5 ->](16-exercícios-lógica-parte5.md)
+[<- Parte 3](16-exercicios-logica-parte3.md) | [Voltar ao Módulo 16](16-exercicios-logica.md) | [Parte 5 ->](16-exercicios-logica-parte5.md)

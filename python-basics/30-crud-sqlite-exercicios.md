@@ -1,6 +1,6 @@
 # 30 — Exercícios: CRUD com SQLite
 
-[<- Voltar para o módulo](30-crud-sqlite.md) | [Glossário](00-glossário.md)
+[<- Voltar para o módulo](30-crud-sqlite.md) | [Glossário](00-glossario.md)
 
 ---
 

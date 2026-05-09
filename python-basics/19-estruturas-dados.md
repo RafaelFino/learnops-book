@@ -1,6 +1,6 @@
 # 19 — Estruturas de Dados: Listas, Tuplas, Dicionários e Conjuntos
 
-[<- Anterior: Tratamento de Erros](18-tratamento-erros.md) | [Glossário](00-glossário.md) | [Próximo: Leitura e Escrita de Arquivos ->](20-leitura-escrita-arquivos.md)
+[<- Anterior: Tratamento de Erros](18-tratamento-erros.md) | [Glossário](00-glossario.md) | [Próximo: Leitura e Escrita de Arquivos ->](20-leitura-escrita-arquivos.md)
 
 ---
 
@@ -17,7 +17,7 @@ Neste módulo, você vai aprender as quatro principais estruturas de dados do Py
 - **Dicionários** — como uma agenda telefonica: cada nome (chave) tem um telefone (valor) associado
 - **Conjuntos (sets)** — como um album de figurinhas sem repetidas: cada elemento aparece apenas uma vez
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) sempre que encontrar um termo desconhecido.
+> **Dica:** Consulte o [Glossário](00-glossario.md) sempre que encontrar um termo desconhecido.
 
 ---
 
@@ -1188,8 +1188,8 @@ R: Não! Programadores profissionais consultam a documentação o tempo todo. O 
 
 Os exercícios deste módulo estão em um arquivo separado:
 
-**[Acessar Exercícios do Módulo 19](19-estruturas-dados-exercícios.md)**
+**[Acessar Exercícios do Módulo 19](19-estruturas-dados-exercicios.md)**
 
 ---
 
-[<- Anterior: Tratamento de Erros](18-tratamento-erros.md) | [Glossário](00-glossário.md) | [Próximo: Leitura e Escrita de Arquivos ->](20-leitura-escrita-arquivos.md)
+[<- Anterior: Tratamento de Erros](18-tratamento-erros.md) | [Glossário](00-glossario.md) | [Próximo: Leitura e Escrita de Arquivos ->](20-leitura-escrita-arquivos.md)

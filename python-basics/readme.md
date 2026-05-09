@@ -71,7 +71,7 @@ Este material foi organizado para que você estude de forma autônoma, no seu pr
 
 ### Passo 1 — Leia a teoria com calma
 
-Cada módulo começa com uma explicação teórica do assunto. Leia com atenção, sem pressa. Se encontrar um termo que não conhece, consulte o [Glossário do Curso](00-glossário.md). É completamente normal precisar reler um trecho mais de uma vez — até programadores experientes fazem isso.
+Cada módulo começa com uma explicação teórica do assunto. Leia com atenção, sem pressa. Se encontrar um termo que não conhece, consulte o [Glossário do Curso](00-glossario.md). É completamente normal precisar reler um trecho mais de uma vez — até programadores experientes fazem isso.
 
 ### Passo 2 — Execute os exemplos de código
 
@@ -90,7 +90,7 @@ Ao final de cada módulo, há exercícios práticos para você resolver. Cada ex
 
 ### Passo 4 — Consulte o glossário quando necessário
 
-Sempre que encontrar um termo desconhecido, consulte o [Glossário do Curso](00-glossário.md). Ele contém explicações simples de todos os termos técnicos usados ao longo dos módulos, com links para fontes externas caso você queira se aprofundar.
+Sempre que encontrar um termo desconhecido, consulte o [Glossário do Curso](00-glossario.md). Ele contém explicações simples de todos os termos técnicos usados ao longo dos módulos, com links para fontes externas caso você queira se aprofundar.
 
 ### Passo 5 — Revise antes de avançar
 
@@ -180,7 +180,7 @@ Isso significa que o terminal não encontrou o arquivo que você tentou executar
 - O arquivo foi salvo com a extensão `.py`
 
 **`permissão negada` (Permission denied)**
-Isso significa que o sistema não permitiu a execução do arquivo. Consulte o [Módulo 04 — Execução, Permissões e Pastas](04-execução-permissões-pastas.md) para entender como resolver.
+Isso significa que o sistema não permitiu a execução do arquivo. Consulte o [Módulo 04 — Execução, Permissões e Pastas](04-execucao-permissoes-pastas.md) para entender como resolver.
 
 **`SyntaxError` (Erro de sintaxe)**
 Isso significa que há um erro na escrita do código — como um parêntese esquecido ou uma palavra escrita errada. Releia o código com atenção e compare com o exemplo original. O [Módulo 17 — Debugging](17-debugging.md) ensina a ler e entender mensagens de erro.
@@ -197,36 +197,36 @@ Aqui está a ordem recomendada de estudos:
 
 | # | Módulo | Descrição |
 |---|--------|-----------|
-| — | [Glossário do Curso](00-glossário.md) |  Consulte a qualquer momento quando encontrar um termo desconhecido |
-| 01 | [Introdução à Programação](01-introdução-programação.md) | O que é um programa de computador e o que significa programar |
+| — | [Glossário do Curso](00-glossario.md) |  Consulte a qualquer momento quando encontrar um termo desconhecido |
+| 01 | [Introdução à Programação](01-introducao-programacao.md) | O que é um programa de computador e o que significa programar |
 | 02 | [Scripts, Compilados e VM](02-scripts-compilados-vm.md) | Diferenças entre tipos de programas e onde o Python se encaixa |
 | 03 | [Preparação do Ambiente](03-preparacao-ambiente.md) | Como instalar Python e VSCode no Linux |
-| 04 | [Execução, Permissões e Pastas](04-execução-permissões-pastas.md) | Como executar programas, permissões de arquivo e organização de pastas |
-| 05 | [História do Python](05-história-python.md) | Quem criou o Python, sua filosofia e onde é usado no mundo real |
+| 04 | [Execução, Permissões e Pastas](04-execucao-permissoes-pastas.md) | Como executar programas, permissões de arquivo e organização de pastas |
+| 05 | [História do Python](05-historia-python.md) | Quem criou o Python, sua filosofia e onde é usado no mundo real |
 | 06 | [Entrada e Saída de Dados](06-entrada-saida.md) | Aprendendo input() e print() em profundidade |
-| 07 | [Variáveis e Tipos Básicos](07-variáveis-tipos.md) | O que são variáveis e os tipos de dados int, float, str e bool |
-| 08 | [Conversão de Tipos](08-conversão-tipos.md) | Como converter valores entre diferentes tipos de dados |
-| 09 | [Manipulação de Strings](09-manipulação-strings.md) | Formatação, fatiamento e métodos de texto |
+| 07 | [Variáveis e Tipos Básicos](07-variaveis-tipos.md) | O que são variáveis e os tipos de dados int, float, str e bool |
+| 08 | [Conversão de Tipos](08-conversao-tipos.md) | Como converter valores entre diferentes tipos de dados |
+| 09 | [Manipulação de Strings](09-manipulacao-strings.md) | Formatação, fatiamento e métodos de texto |
 | 10 | [Indentação e Escopo](10-indentacao-escopo.md) | Por que a indentação é fundamental em Python |
 | 11 | [Operadores](11-operadores.md) | Operadores matemáticos, de comparação e lógicos |
 | 12 | [Condicionais](12-condicionais.md) | Tomando decisões com if, elif e else |
 | 13 | [Seletores (match/case)](13-seletores-match-case.md) | Comparando valores com múltiplos padrões |
-| 14 | [Controles de Repetição](14-controles-repetição.md) | Automatizando tarefas com for e while |
-| 15 | [Funções](15-funções.md) | Organizando código em blocos reutilizáveis |
-| 16 | [Exercícios de Lógica](16-exercícios-lógica.md) | Treino intensivo de raciocínio lógico |
+| 14 | [Controles de Repetição](14-controles-repeticao.md) | Automatizando tarefas com for e while |
+| 15 | [Funções](15-funcoes.md) | Organizando código em blocos reutilizáveis |
+| 16 | [Exercícios de Lógica](16-exercicios-logica.md) | Treino intensivo de raciocínio lógico |
 | 17 | [Debugging](17-debugging.md) | Identificando e corrigindo erros nos programas |
 | 18 | [Tratamento de Erros](18-tratamento-erros.md) | Lidando com situações inesperadas (try/except) |
 | 19 | [Estruturas de Dados](19-estruturas-dados.md) | Listas, tuplas, dicionários e conjuntos |
 | 20 | [Leitura e Escrita de Arquivos](20-leitura-escrita-arquivos.md) | Salvando e lendo dados em arquivos .txt e .csv |
-| 21 | [Manipulação de JSON](21-manipulação-json.md) | Trabalhando com o formato JSON |
+| 21 | [Manipulação de JSON](21-manipulacao-json.md) | Trabalhando com o formato JSON |
 | 22 | [Classes e Objetos](22-classes-objetos.md) | Introdução à orientação a objetos |
-| 23 | [Exercícios Integradores](23-exercícios-integradores.md) | Praticando todos os conceitos juntos |
-| 24 | [Módulos e Imports](24-módulos-imports.md) | Importando bibliotecas e organizando código |
-| 25 | [Estruturação de Projetos](25-estruturação-projetos.md) | Organizando pastas e arquivos de um projeto |
-| 26 | [pip e Dependências](26-pip-dependências.md) | Instalando e gerenciando bibliotecas externas |
-| 27 | [Boas Práticas](27-boas-práticas.md) | Escrevendo código limpo e profissional (PEP 8) |
+| 23 | [Exercícios Integradores](23-exercicios-integradores.md) | Praticando todos os conceitos juntos |
+| 24 | [Módulos e Imports](24-modulos-imports.md) | Importando bibliotecas e organizando código |
+| 25 | [Estruturação de Projetos](25-estruturacao-projetos.md) | Organizando pastas e arquivos de um projeto |
+| 26 | [pip e Dependências](26-pip-dependencias.md) | Instalando e gerenciando bibliotecas externas |
+| 27 | [Boas Práticas](27-boas-praticas.md) | Escrevendo código limpo e profissional (PEP 8) |
 | 28 | [Modelagem de Dados](28-modelagem-dados.md) | Planejando a estrutura dos dados antes de programar |
-| 29 | [Projeto CRUD — Memória](29-crud-memória.md) | Cadastro de produtos com listas e dicionários |
+| 29 | [Projeto CRUD — Memória](29-crud-memoria.md) | Cadastro de produtos com listas e dicionários |
 | 30 | [Projeto CRUD — SQLite](30-crud-sqlite.md) | Evoluindo o CRUD com banco de dados |
 | 31 | [Projeto CRUD — FastAPI](31-crud-fastapi.md) | Evoluindo o CRUD com interface web HTTP |
 | 32 | [Projeto CRUD — Swagger](32-crud-swagger.md) | Documentando a API do projeto |
@@ -332,14 +332,14 @@ Aprender a programar é uma jornada, não uma corrida. Cada pessoa tem seu próp
 
 Ao longo dos módulos, você encontrará diversos termos técnicos. Para facilitar seus estudos, criamos um **glossário completo** com explicações simples e acessíveis de todos os termos utilizados no curso.
 
-  **[Acesse o Glossário do Curso](00-glossário.md)**
+  **[Acesse o Glossário do Curso](00-glossario.md)**
 
 O glossário está dividido em arquivos para facilitar a consulta:
-- [Termos A-D](00-glossário-a-d.md) — Algoritmo, API, Bool, Classe, CRUD, Dicionário...
-- [Termos E-I](00-glossário-e-i.md) — Escopo, Expressão, FastAPI, Função, HTTP, Indentação...
-- [Termos J-P](00-glossário-j-p.md) — JSON, Lista, Loop, Módulo, Objeto, PEP 8, Python...
-- [Termos Q-Z](00-glossário-q-z.md) — Range, Return, Script, SQLite, String, Tupla, Variável...
-- [Comandos e Funções Python](00-glossário-comandos.md) — Referência rápida de funções, operadores, métodos e comandos de terminal
+- [Termos A-D](00-glossario-a-d.md) — Algoritmo, API, Bool, Classe, CRUD, Dicionário...
+- [Termos E-I](00-glossario-e-i.md) — Escopo, Expressão, FastAPI, Função, HTTP, Indentação...
+- [Termos J-P](00-glossario-j-p.md) — JSON, Lista, Loop, Módulo, Objeto, PEP 8, Python...
+- [Termos Q-Z](00-glossario-q-z.md) — Range, Return, Script, SQLite, String, Tupla, Variável...
+- [Comandos e Funções Python](00-glossario-comandos.md) — Referência rápida de funções, operadores, métodos e comandos de terminal
 
 **Quando consultar o glossário?**
 

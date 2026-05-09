@@ -1,6 +1,6 @@
 # Exercícios de Lógica — Parte 3: Contadores e Acumuladores
 
-[<- Parte 2](16-exercícios-lógica-parte2.md) | [Voltar ao Módulo 16](16-exercícios-lógica.md) | [Parte 4 ->](16-exercícios-lógica-parte4.md)
+[<- Parte 2](16-exercicios-logica-parte2.md) | [Voltar ao Módulo 16](16-exercicios-logica.md) | [Parte 4 ->](16-exercicios-logica-parte4.md)
 
 ---
 
@@ -254,4 +254,4 @@ for i in range(len(values)):
 
 ---
 
-[<- Parte 2](16-exercícios-lógica-parte2.md) | [Voltar ao Módulo 16](16-exercícios-lógica.md) | [Parte 4 ->](16-exercícios-lógica-parte4.md)
+[<- Parte 2](16-exercicios-logica-parte2.md) | [Voltar ao Módulo 16](16-exercicios-logica.md) | [Parte 4 ->](16-exercicios-logica-parte4.md)

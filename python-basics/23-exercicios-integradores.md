@@ -1,6 +1,6 @@
 # 23 — Exercícios Integradores
 
-[<- Anterior: Classes e Objetos](22-classes-objetos.md) | [Glossário](00-glossário.md) | [Próximo: Módulos e Imports ->](24-módulos-imports.md)
+[<- Anterior: Classes e Objetos](22-classes-objetos.md) | [Glossário](00-glossario.md) | [Próximo: Módulos e Imports ->](24-modulos-imports.md)
 
 ---
 
@@ -20,7 +20,7 @@ Os exercícios estão organizados em tres níveis de dificuldade:
 
 Não se preocupe se não conseguir resolver todos de primeira. Volte aos módulos anteriores, releia as explicacoes, e tente novamente. A prática constante e o caminho mais seguro para se tornar um bom programador.
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) e os módulos anteriores sempre que precisar relembrar um conceito.
+> **Dica:** Consulte o [Glossário](00-glossario.md) e os módulos anteriores sempre que precisar relembrar um conceito.
 
 ---
 
@@ -3134,7 +3134,7 @@ while True:
 - [W3Schools — Python File Handling](https://www.w3schools.com/python/python_file_handling.asp)
   _Tutorial sobre leitura e escrita de arquivos em Python_
 
-> Consulte o [Glossário](00-glossário.md) sempre que encontrar um termo desconhecido.
+> Consulte o [Glossário](00-glossario.md) sempre que encontrar um termo desconhecido.
 
 ---
 
@@ -3205,4 +3205,4 @@ R: Primeiro, releia o enunciado com calma e verifique as dicas. Depois, tente re
 
 ---
 
-[<- Anterior: Classes e Objetos](22-classes-objetos.md) | [Glossário](00-glossário.md) | [Próximo: Módulos e Imports ->](24-módulos-imports.md)
+[<- Anterior: Classes e Objetos](22-classes-objetos.md) | [Glossário](00-glossario.md) | [Próximo: Módulos e Imports ->](24-modulos-imports.md)

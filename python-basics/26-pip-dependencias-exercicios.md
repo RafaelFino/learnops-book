@@ -1,6 +1,6 @@
 # 26 — Exercícios: pip e Gerenciamento de Dependências
 
-[<- Voltar para o módulo](26-pip-dependências.md) | [Glossário](00-glossário.md)
+[<- Voltar para o módulo](26-pip-dependencias.md) | [Glossário](00-glossario.md)
 
 ---
 
@@ -1029,4 +1029,4 @@ Para instalar, execute: pip3 install pacote_inexistente
 
 ---
 
-[<- Voltar para o módulo](26-pip-dependências.md) | [Glossário](00-glossário.md)
+[<- Voltar para o módulo](26-pip-dependencias.md) | [Glossário](00-glossario.md)

@@ -1,6 +1,6 @@
 # Exercícios — Módulo 09: Manipulação de Strings
 
-[<- Voltar ao Módulo 09](09-manipulação-strings.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 09](09-manipulacao-strings.md) | [Glossário](00-glossario.md)
 
 > **Como usar estes exercícios:**
 > 1. Leia o enunciado com atenção
@@ -472,4 +472,4 @@ print(f"Email gerado: {email}")
 
 ---
 
-[<- Voltar ao Módulo 09](09-manipulação-strings.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 09](09-manipulacao-strings.md) | [Glossário](00-glossario.md)

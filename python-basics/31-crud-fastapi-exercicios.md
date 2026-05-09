@@ -1,6 +1,6 @@
 # 31 — Exercícios: CRUD com FastAPI
 
-[<- Voltar para o módulo](31-crud-fastapi.md) | [Glossário](00-glossário.md)
+[<- Voltar para o módulo](31-crud-fastapi.md) | [Glossário](00-glossario.md)
 
 ---
 

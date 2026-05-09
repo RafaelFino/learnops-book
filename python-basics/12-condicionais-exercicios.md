@@ -1,6 +1,6 @@
 # Exercícios — Módulo 12: Condicionais
 
-[<- Voltar ao Módulo 12](12-condicionais.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 12](12-condicionais.md) | [Glossário](00-glossario.md)
 
 > **Como usar estes exercícios:**
 > 1. Leia o enunciado com atenção
@@ -649,4 +649,4 @@ else:
 
 ---
 
-[<- Voltar ao Módulo 12](12-condicionais.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 12](12-condicionais.md) | [Glossário](00-glossario.md)

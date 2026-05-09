@@ -1,6 +1,6 @@
 # 27 — Boas Práticas de Programação em Python
 
-[<- Anterior: pip e Dependências](26-pip-dependências.md) | [Glossário](00-glossário.md) | [Próximo: Modelagem de Dados ->](28-modelagem-dados.md)
+[<- Anterior: pip e Dependências](26-pip-dependencias.md) | [Glossário](00-glossario.md) | [Próximo: Modelagem de Dados ->](28-modelagem-dados.md)
 
 ---
 
@@ -24,7 +24,7 @@ Neste módulo, você vai aprender:
 - O que sao docstrings e como usa-las
 - Exemplos comparativos de código com e sem boas práticas
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) sempre que encontrar um termo desconhecido.
+> **Dica:** Consulte o [Glossário](00-glossario.md) sempre que encontrar um termo desconhecido.
 
 ---
 
@@ -1165,7 +1165,7 @@ Saida esperada:
 - [Real Python — PEP 8 Guide (em ingles)](https://realpython.com/python-pep8/)
   _Um guia detalhado e prático sobre a PEP 8 para quem quiser se aprofundar_
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) para revisar termos como "PEP 8", "snake_case", "CamelCase", "docstring" e outros conceitos deste módulo.
+> **Dica:** Consulte o [Glossário](00-glossario.md) para revisar termos como "PEP 8", "snake_case", "CamelCase", "docstring" e outros conceitos deste módulo.
 
 ---
 
@@ -1238,8 +1238,8 @@ Saida esperada:
 
 ## Exercícios de Fixacao
 
-Os exercícios deste módulo estão no arquivo separado: [Exercícios — Boas Práticas](27-boas-práticas-exercícios.md)
+Os exercícios deste módulo estão no arquivo separado: [Exercícios — Boas Práticas](27-boas-praticas-exercicios.md)
 
 ---
 
-[<- Anterior: pip e Dependências](26-pip-dependências.md) | [Glossário](00-glossário.md) | [Próximo: Modelagem de Dados ->](28-modelagem-dados.md)
+[<- Anterior: pip e Dependências](26-pip-dependencias.md) | [Glossário](00-glossario.md) | [Próximo: Modelagem de Dados ->](28-modelagem-dados.md)

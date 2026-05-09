@@ -1,6 +1,6 @@
 # Exercícios — Módulo 21: Manipulação JSON
 
-[<- Voltar ao Módulo 21](21-manipulação-json.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 21](21-manipulacao-json.md) | [Glossário](00-glossario.md)
 
 > **Como usar estes exercícios:**
 > 1. Leia o enunciado com atenção
@@ -835,4 +835,4 @@ print(json.dumps(settings, indent=4, ensure_ascii=False))
 
 ---
 
-[<- Voltar ao Módulo 21](21-manipulação-json.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 21](21-manipulacao-json.md) | [Glossário](00-glossario.md)

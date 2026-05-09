@@ -1,6 +1,6 @@
 # 28 — Exercícios: Modelagem de Dados
 
-[<- Voltar para o módulo](28-modelagem-dados.md) | [Glossário](00-glossário.md)
+[<- Voltar para o módulo](28-modelagem-dados.md) | [Glossário](00-glossario.md)
 
 ---
 
@@ -1016,4 +1016,4 @@ Valor total: R$ 1118.25
 
 ---
 
-[<- Voltar para o módulo](28-modelagem-dados.md) | [Glossário](00-glossário.md)
+[<- Voltar para o módulo](28-modelagem-dados.md) | [Glossário](00-glossario.md)

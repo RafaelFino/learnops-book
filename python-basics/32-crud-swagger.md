@@ -1,6 +1,6 @@
 # 32 — CRUD com Swagger: Documentação Interativa da API
 
-[<- Anterior: CRUD com FastAPI](31-crud-fastapi.md) | [Glossário](00-glossário.md)
+[<- Anterior: CRUD com FastAPI](31-crud-fastapi.md) | [Glossário](00-glossario.md)
 
 ---
 
@@ -29,7 +29,7 @@ O melhor de tudo: **o FastAPI gera o Swagger automaticamente**. Você não preci
 - Como usar tags para organizar as rotas
 - Como adicionar exemplos de requisicao e resposta
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) sempre que encontrar um termo desconhecido.
+> **Dica:** Consulte o [Glossário](00-glossario.md) sempre que encontrar um termo desconhecido.
 
 ---
 
@@ -610,4 +610,4 @@ R: REST (Representational State Transfer) e um estilo de arquitetura para APIs. 
 
 Os exercícios deste módulo estão em um arquivo separado para facilitar a navegação:
 
-[Ir para os Exercícios do Módulo 32 ->](32-crud-swagger-exercícios.md)
+[Ir para os Exercícios do Módulo 32 ->](32-crud-swagger-exercicios.md)

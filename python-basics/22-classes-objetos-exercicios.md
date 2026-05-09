@@ -1,6 +1,6 @@
 # Exercícios — Módulo 22: Classes e Objetos
 
-[<- Voltar ao Módulo 22](22-classes-objetos.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 22](22-classes-objetos.md) | [Glossário](00-glossario.md)
 
 > **Como usar estes exercícios:**
 > 1. Leia o enunciado com atenção
@@ -881,4 +881,4 @@ classroom.show_report()
 
 ---
 
-[<- Voltar ao Módulo 22](22-classes-objetos.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 22](22-classes-objetos.md) | [Glossário](00-glossario.md)

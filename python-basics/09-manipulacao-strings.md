@@ -1,6 +1,6 @@
 # 09 — Manipulação de Strings
 
-[<- Anterior: Conversão de Tipos](08-conversão-tipos.md) | [Glossário](00-glossário.md) | [Próximo: Indentacao e Escopo ->](10-indentacao-escopo.md)
+[<- Anterior: Conversão de Tipos](08-conversao-tipos.md) | [Glossário](00-glossario.md) | [Próximo: Indentacao e Escopo ->](10-indentacao-escopo.md)
 
 ---
 
@@ -10,7 +10,7 @@ Strings (textos) sao um dos tipos de dados mais usados em programação. Pratica
 
 Neste módulo, você vai aprender a formatar, fatiar e transformar textos em Python. Pense nas strings como um colar de contas: cada conta e um caractere (letra, número ou símbolo), e você pode acessar contas individuais, cortar pedacos do colar ou trocar contas de lugar.
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) e a [Referência de Métodos de String](00-glossário-comandos.md#métodos-de-string) sempre que precisar.
+> **Dica:** Consulte o [Glossário](00-glossario.md) e a [Referência de Métodos de String](00-glossario-comandos.md#métodos-de-string) sempre que precisar.
 
 ---
 
@@ -481,8 +481,8 @@ R: Sim, strings tem muitos detalhes. O segredo e praticar bastante. Faca os exer
 
 Os exercícios deste módulo estão em um arquivo separado para facilitar a consulta:
 
-**[Acessar Exercícios do Módulo 09](09-manipulação-strings-exercícios.md)**
+**[Acessar Exercícios do Módulo 09](09-manipulacao-strings-exercicios.md)**
 
 ---
 
-[<- Anterior: Conversão de Tipos](08-conversão-tipos.md) | [Glossário](00-glossário.md) | [Próximo: Indentacao e Escopo ->](10-indentacao-escopo.md)
+[<- Anterior: Conversão de Tipos](08-conversao-tipos.md) | [Glossário](00-glossario.md) | [Próximo: Indentacao e Escopo ->](10-indentacao-escopo.md)

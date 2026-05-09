@@ -1,6 +1,6 @@
 # 27 — Exercícios: Boas Práticas de Programação em Python
 
-[<- Voltar para o módulo](27-boas-práticas.md) | [Glossário](00-glossário.md)
+[<- Voltar para o módulo](27-boas-praticas.md) | [Glossário](00-glossario.md)
 
 ---
 
@@ -1512,4 +1512,4 @@ Aluno: Ana
 
 ---
 
-[<- Voltar para o módulo](27-boas-práticas.md) | [Glossário](00-glossário.md)
+[<- Voltar para o módulo](27-boas-praticas.md) | [Glossário](00-glossario.md)

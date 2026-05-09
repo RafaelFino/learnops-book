@@ -1,6 +1,6 @@
 # Exercícios — Módulo 15: Funções
 
-[<- Voltar ao Módulo 15](15-funções.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 15](15-funcoes.md) | [Glossário](00-glossario.md)
 
 > **Como usar estes exercícios:**
 > 1. Leia o enunciado com atenção
@@ -661,4 +661,4 @@ main()
 
 ---
 
-[<- Voltar ao Módulo 15](15-funções.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 15](15-funcoes.md) | [Glossário](00-glossario.md)

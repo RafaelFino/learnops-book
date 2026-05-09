@@ -1,6 +1,6 @@
 # 14 — Controles de Repetição: for e while
 
-[<- Anterior: Seletores match/case](13-seletores-match-case.md) | [Glossário](00-glossário.md) | [Próximo: Funções ->](15-funções.md)
+[<- Anterior: Seletores match/case](13-seletores-match-case.md) | [Glossário](00-glossario.md) | [Próximo: Funções ->](15-funcoes.md)
 
 ---
 
@@ -464,8 +464,8 @@ R: Muito normal! Loops sao um dos conceitos mais desafiadores para iniciantes. A
 
 Os exercícios deste módulo estão em um arquivo separado. Este e um módulo complexo — os exercícios sao mais numerosos e progressivos.
 
-**[Acessar Exercícios do Módulo 14](14-controles-repetição-exercícios.md)**
+**[Acessar Exercícios do Módulo 14](14-controles-repeticao-exercicios.md)**
 
 ---
 
-[<- Anterior: Seletores match/case](13-seletores-match-case.md) | [Glossário](00-glossário.md) | [Próximo: Funções ->](15-funções.md)
+[<- Anterior: Seletores match/case](13-seletores-match-case.md) | [Glossário](00-glossario.md) | [Próximo: Funções ->](15-funcoes.md)

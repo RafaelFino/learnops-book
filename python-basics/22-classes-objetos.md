@@ -1,6 +1,6 @@
 # 22 — Classes e Objetos: Introdução a Orientacao a Objetos
 
-[<- Anterior: Manipulação JSON](21-manipulação-json.md) | [Glossário](00-glossário.md) | [Próximo: Exercícios Integradores ->](23-exercícios-integradores.md)
+[<- Anterior: Manipulação JSON](21-manipulacao-json.md) | [Glossário](00-glossario.md) | [Próximo: Exercícios Integradores ->](23-exercicios-integradores.md)
 
 ---
 
@@ -21,7 +21,7 @@ Neste módulo, você vai aprender os conceitos **básicos** de Orientacao a Obje
 
 > **Nota importante:** Orientacao a Objetos e um tema vasto. Neste módulo, vamos cobrir apenas o essencial para que você consiga entender e usar classes simples. Conceitos avancados como herança, polimorfismo e classes abstratas existem, mas estão fora do escopo deste curso. Não se preocupe com eles agora.
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) sempre que encontrar um termo desconhecido.
+> **Dica:** Consulte o [Glossário](00-glossario.md) sempre que encontrar um termo desconhecido.
 
 ---
 
@@ -906,8 +906,8 @@ R: Sim, o conceito de classes existe em muitas linguagens como Java, C#, JavaScr
 
 Pratique o que aprendeu com os exercícios do módulo:
 
-[Exercícios do Módulo 22 — Classes e Objetos](22-classes-objetos-exercícios.md)
+[Exercícios do Módulo 22 — Classes e Objetos](22-classes-objetos-exercicios.md)
 
 ---
 
-[<- Anterior: Manipulação JSON](21-manipulação-json.md) | [Glossário](00-glossário.md) | [Próximo: Exercícios Integradores ->](23-exercícios-integradores.md)
+[<- Anterior: Manipulação JSON](21-manipulacao-json.md) | [Glossário](00-glossario.md) | [Próximo: Exercícios Integradores ->](23-exercicios-integradores.md)

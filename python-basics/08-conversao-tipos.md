@@ -1,6 +1,6 @@
 # 08 — Conversão entre Tipos de Dados (Type Casting)
 
-[<- Anterior: Variáveis e Tipos Básicos](07-variáveis-tipos.md) | [Glossário](00-glossário.md) | [Próximo: Manipulação de Strings ->](09-manipulação-strings.md)
+[<- Anterior: Variáveis e Tipos Básicos](07-variaveis-tipos.md) | [Glossário](00-glossario.md) | [Próximo: Manipulação de Strings ->](09-manipulacao-strings.md)
 
 ---
 
@@ -12,7 +12,7 @@ Imagine que você recebeu uma encomenda pelo correio. Dentro da caixa veio um n�
 
 Em programação, isso se chama **conversão de tipos** (ou **type casting**, em ingles). E o processo de transformar um valor de um tipo para outro.
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) sempre que encontrar um termo desconhecido.
+> **Dica:** Consulte o [Glossário](00-glossario.md) sempre que encontrar um termo desconhecido.
 
 ---
 
@@ -402,8 +402,8 @@ R: Muito normal! Conversão de tipos e um dos pontos que mais confunde iniciante
 
 Os exercícios deste módulo estão em um arquivo separado para facilitar a consulta:
 
-**[Acessar Exercícios do Módulo 08](08-conversão-tipos-exercícios.md)**
+**[Acessar Exercícios do Módulo 08](08-conversao-tipos-exercicios.md)**
 
 ---
 
-[<- Anterior: Variáveis e Tipos Básicos](07-variáveis-tipos.md) | [Glossário](00-glossário.md) | [Próximo: Manipulação de Strings ->](09-manipulação-strings.md)
+[<- Anterior: Variáveis e Tipos Básicos](07-variaveis-tipos.md) | [Glossário](00-glossario.md) | [Próximo: Manipulação de Strings ->](09-manipulacao-strings.md)

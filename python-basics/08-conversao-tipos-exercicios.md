@@ -1,6 +1,6 @@
 # Exercícios — Módulo 08: Conversão entre Tipos de Dados
 
-[<- Voltar ao Módulo 08](08-conversão-tipos.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 08](08-conversao-tipos.md) | [Glossário](00-glossario.md)
 
 > **Como usar estes exercícios:**
 > 1. Leia o enunciado com atenção
@@ -499,4 +499,4 @@ print("Divisao:", div_result, "| Inteiro:", int(div_result))
 
 ---
 
-[<- Voltar ao Módulo 08](08-conversão-tipos.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 08](08-conversao-tipos.md) | [Glossário](00-glossario.md)

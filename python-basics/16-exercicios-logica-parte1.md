@@ -1,6 +1,6 @@
 # Exercícios de Lógica — Parte 1: Validação de Dados
 
-[<- Voltar ao Módulo 16](16-exercícios-lógica.md) | [Glossário](00-glossário.md) | [Parte 2 ->](16-exercícios-lógica-parte2.md)
+[<- Voltar ao Módulo 16](16-exercicios-logica.md) | [Glossário](00-glossario.md) | [Parte 2 ->](16-exercicios-logica-parte2.md)
 
 > **Como testar:** Salve na pasta `~/meus-projetos/python-curso/modulo-16/` e execute com `python3 nome_do_arquivo.py`.
 
@@ -267,4 +267,4 @@ else:
 
 ---
 
-[<- Voltar ao Módulo 16](16-exercícios-lógica.md) | [Parte 2 — Processamento de Listas ->](16-exercícios-lógica-parte2.md)
+[<- Voltar ao Módulo 16](16-exercicios-logica.md) | [Parte 2 — Processamento de Listas ->](16-exercicios-logica-parte2.md)

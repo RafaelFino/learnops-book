@@ -1,6 +1,6 @@
 # 13 — Seletores: match/case
 
-[<- Anterior: Condicionais](12-condicionais.md) | [Glossário](00-glossário.md) | [Próximo: Controles de Repetição ->](14-controles-repetição.md)
+[<- Anterior: Condicionais](12-condicionais.md) | [Glossário](00-glossario.md) | [Próximo: Controles de Repetição ->](14-controles-repeticao.md)
 
 ---
 
@@ -271,8 +271,8 @@ R: E bom conhecer, mas não e essencial. Tudo que o match/case faz pode ser feit
 
 Os exercícios deste módulo estão em um arquivo separado para facilitar a consulta:
 
-**[Acessar Exercícios do Módulo 13](13-seletores-match-case-exercícios.md)**
+**[Acessar Exercícios do Módulo 13](13-seletores-match-case-exercicios.md)**
 
 ---
 
-[<- Anterior: Condicionais](12-condicionais.md) | [Glossário](00-glossário.md) | [Próximo: Controles de Repetição ->](14-controles-repetição.md)
+[<- Anterior: Condicionais](12-condicionais.md) | [Glossário](00-glossario.md) | [Próximo: Controles de Repetição ->](14-controles-repeticao.md)

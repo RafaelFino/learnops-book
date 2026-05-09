@@ -1,6 +1,6 @@
 # Exercícios — Módulo 13: Seletores match/case
 
-[<- Voltar ao Módulo 13](13-seletores-match-case.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 13](13-seletores-match-case.md) | [Glossário](00-glossario.md)
 
 > **Como usar estes exercícios:**
 > 1. Leia o enunciado com atenção
@@ -494,4 +494,4 @@ match option:
 
 ---
 
-[<- Voltar ao Módulo 13](13-seletores-match-case.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 13](13-seletores-match-case.md) | [Glossário](00-glossario.md)

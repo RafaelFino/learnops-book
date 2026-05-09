@@ -1,6 +1,6 @@
 # Exercícios — Módulo 10: Indentacao e Escopo
 
-[<- Voltar ao Módulo 10](10-indentacao-escopo.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 10](10-indentacao-escopo.md) | [Glossário](00-glossario.md)
 
 > **Como usar estes exercícios:**
 > 1. Leia o enunciado com atenção
@@ -457,4 +457,4 @@ print("Resultado processado")
 
 ---
 
-[<- Voltar ao Módulo 10](10-indentacao-escopo.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 10](10-indentacao-escopo.md) | [Glossário](00-glossario.md)

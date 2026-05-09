@@ -1,6 +1,6 @@
 # 28 — Modelagem de Dados: Planejamento Conceitual
 
-[<- Anterior: Boas Práticas](27-boas-práticas.md) | [Glossário](00-glossário.md) | [Próximo: CRUD em Memória ->](29-crud-memória.md)
+[<- Anterior: Boas Práticas](27-boas-praticas.md) | [Glossário](00-glossario.md) | [Próximo: CRUD em Memória ->](29-crud-memoria.md)
 
 ---
 
@@ -21,7 +21,7 @@ Neste módulo, você vai aprender:
 - Como validar dados de entrada para evitar informações incorretas
 - Como preparar o modelo de dados para o projeto CRUD que comecaremos no próximo módulo
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) sempre que encontrar um termo desconhecido.
+> **Dica:** Consulte o [Glossário](00-glossario.md) sempre que encontrar um termo desconhecido.
 
 ---
 
@@ -842,8 +842,8 @@ Este modelo completo ja tem a estrutura básica que usaremos no projeto CRUD. No
 
 ## Exercícios de Fixacao
 
-Os exercícios deste módulo estão no arquivo separado: [Exercícios — Modelagem de Dados](28-modelagem-dados-exercícios.md)
+Os exercícios deste módulo estão no arquivo separado: [Exercícios — Modelagem de Dados](28-modelagem-dados-exercicios.md)
 
 ---
 
-[<- Anterior: Boas Práticas](27-boas-práticas.md) | [Glossário](00-glossário.md) | [Próximo: CRUD em Memória ->](29-crud-memória.md)
+[<- Anterior: Boas Práticas](27-boas-praticas.md) | [Glossário](00-glossario.md) | [Próximo: CRUD em Memória ->](29-crud-memoria.md)

@@ -1,6 +1,6 @@
 # Glossário — Letras A a D
 
-[← Voltar ao índice do Glossário](00-glossário.md)
+[← Voltar ao índice do Glossário](00-glossario.md)
 
 ---
 
@@ -230,4 +230,4 @@ Princípio de programação: "não se repita". Em vez de escrever o mesmo códig
 
 ---
 
-[← Voltar ao índice do Glossário](00-glossário.md) · [Próximo: E-I →](00-glossário-e-i.md)
+[← Voltar ao índice do Glossário](00-glossario.md) · [Próximo: E-I →](00-glossario-e-i.md)

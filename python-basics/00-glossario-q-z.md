@@ -1,6 +1,6 @@
 # Glossário — Letras Q a Z
 
-[← Voltar ao índice do Glossário](00-glossário.md) · [← Anterior: J-P](00-glossário-j-p.md)
+[← Voltar ao índice do Glossário](00-glossario.md) · [← Anterior: J-P](00-glossario-j-p.md)
 
 ---
 
@@ -153,4 +153,4 @@ Palavra-chave do Python usada como gerenciador de contexto, que garante que recu
 
 ---
 
-[← Voltar ao índice do Glossário](00-glossário.md) · [← Anterior: J-P](00-glossário-j-p.md) · [Comandos Python →](00-glossário-comandos.md)
+[← Voltar ao índice do Glossário](00-glossario.md) · [← Anterior: J-P](00-glossario-j-p.md) · [Comandos Python →](00-glossario-comandos.md)

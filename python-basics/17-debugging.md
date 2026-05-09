@@ -1,6 +1,6 @@
 # 17 — Debugging Básico: Identificando e Corrigindo Erros
 
-[<- Anterior: Exercícios de Lógica](16-exercícios-lógica.md) | [Glossário](00-glossário.md) | [Próximo: Tratamento de Erros ->](18-tratamento-erros.md)
+[<- Anterior: Exercícios de Lógica](16-exercicios-logica.md) | [Glossário](00-glossario.md) | [Próximo: Tratamento de Erros ->](18-tratamento-erros.md)
 
 ---
 
@@ -12,7 +12,7 @@ O processo de encontrar e corrigir erros se chama **debugging** (depuracao). Nes
 
 Pense no debugging como ser um detetive: o erro e o crime, a mensagem de erro e a pista, e você e o investigador que precisa descobrir o que aconteceu e onde.
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) sempre que encontrar um termo desconhecido.
+> **Dica:** Consulte o [Glossário](00-glossario.md) sempre que encontrar um termo desconhecido.
 
 ---
 
@@ -315,8 +315,8 @@ R: E completamente normal sentir frustracao. Faca pausas regulares, respire fund
 
 Os exercícios deste módulo estão em um arquivo separado:
 
-**[Acessar Exercícios do Módulo 17](17-debugging-exercícios.md)**
+**[Acessar Exercícios do Módulo 17](17-debugging-exercicios.md)**
 
 ---
 
-[<- Anterior: Exercícios de Lógica](16-exercícios-lógica.md) | [Glossário](00-glossário.md) | [Próximo: Tratamento de Erros ->](18-tratamento-erros.md)
+[<- Anterior: Exercícios de Lógica](16-exercicios-logica.md) | [Glossário](00-glossario.md) | [Próximo: Tratamento de Erros ->](18-tratamento-erros.md)

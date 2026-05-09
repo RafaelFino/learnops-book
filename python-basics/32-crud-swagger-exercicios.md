@@ -1,6 +1,6 @@
 # 32 — Exercícios: CRUD com Swagger
 
-[<- Voltar para o módulo](32-crud-swagger.md) | [Glossário](00-glossário.md)
+[<- Voltar para o módulo](32-crud-swagger.md) | [Glossário](00-glossario.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # Exercícios — Módulo 20: Leitura e Escrita de Arquivos
 
-[<- Voltar ao Módulo 20](20-leitura-escrita-arquivos.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 20](20-leitura-escrita-arquivos.md) | [Glossário](00-glossario.md)
 
 > **Como usar estes exercícios:**
 > 1. Leia o enunciado com atenção
@@ -749,4 +749,4 @@ else:
 
 ---
 
-[<- Voltar ao Módulo 20](20-leitura-escrita-arquivos.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 20](20-leitura-escrita-arquivos.md) | [Glossário](00-glossario.md)

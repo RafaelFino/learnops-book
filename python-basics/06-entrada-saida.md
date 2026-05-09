@@ -1,6 +1,6 @@
 # 06 — Entrada e Saída de Dados: input() e print()
 
-[← Anterior: História do Python](05-história-python.md) · [Glossário](00-glossário.md) · [Próximo: Variáveis e Tipos Básicos →](07-variáveis-tipos.md)
+[← Anterior: História do Python](05-historia-python.md) · [Glossário](00-glossario.md) · [Próximo: Variáveis e Tipos Básicos →](07-variaveis-tipos.md)
 
 ---
 
@@ -15,7 +15,7 @@ Neste módulo, você vai aprender as duas funções mais básicas e importantes 
 
 Pense assim: `print()` é a boca do programa (ele fala) e `input()` é o ouvido (ele escuta). Com essas duas funções, seus programas já conseguem conversar com você!
 
-> **Dica:** Termos novos? Consulte o [Glossário](00-glossário.md) a qualquer momento.
+> **Dica:** Termos novos? Consulte o [Glossário](00-glossario.md) a qualquer momento.
 
 ---
 
@@ -30,13 +30,13 @@ Este é o primeiro módulo com código para executar! Aqui vai um lembrete rápi
 5. Navegue até a pasta onde salvou: `cd ~/meus-projetos/python-curso/modulo-06`
 6. Execute: `python3 exemplo_print.py`
 
-> **Dica:** Se precisar de mais detalhes, consulte o [Módulo 03 — Preparação do Ambiente](03-preparacao-ambiente.md) e o [Módulo 04 — Execução e Pastas](04-execução-permissões-pastas.md).
+> **Dica:** Se precisar de mais detalhes, consulte o [Módulo 03 — Preparação do Ambiente](03-preparacao-ambiente.md) e o [Módulo 04 — Execução e Pastas](04-execucao-permissoes-pastas.md).
 
 ---
 
 ## A Função print() — Exibindo Dados no Terminal
 
-A função [print()](00-glossário-j-p.md#print) exibe informações no terminal. É a forma mais simples de fazer o programa mostrar algo para você.
+A função [print()](00-glossario-j-p.md#print) exibe informações no terminal. É a forma mais simples de fazer o programa mostrar algo para você.
 
 ### Uso básico
 
@@ -173,7 +173,7 @@ Macarrão	R$ 3.75
 
 ## A Função input() — Recebendo Dados do Usuário
 
-A função [input()](00-glossário-e-i.md#input) faz o programa parar e esperar que o usuário digite algo no terminal. O valor digitado é capturado e pode ser guardado em uma variável.
+A função [input()](00-glossario-e-i.md#input) faz o programa parar e esperar que o usuário digite algo no terminal. O valor digitado é capturado e pode ser guardado em uma variável.
 
 ### Uso básico
 
@@ -265,7 +265,7 @@ Digite a quantidade: 3
 Total da compra: R$ 17.97
 ```
 
-> **Dica:** `int()` converte para número inteiro (sem decimais). `float()` converte para número decimal (com ponto). Vamos aprofundar isso no [Módulo 08 — Conversão de Tipos](08-conversão-tipos.md).
+> **Dica:** `int()` converte para número inteiro (sem decimais). `float()` converte para número decimal (com ponto). Vamos aprofundar isso no [Módulo 08 — Conversão de Tipos](08-conversao-tipos.md).
 
 ### O que acontece quando a conversão falha?
 
@@ -471,8 +471,8 @@ R: Completamente normal! input() e print() parecem simples, mas têm muitos deta
 
 Os exercícios deste módulo estão em um arquivo separado para facilitar a consulta:
 
-  **[Acessar Exercícios do Módulo 06](06-entrada-saida-exercícios.md)**
+  **[Acessar Exercícios do Módulo 06](06-entrada-saida-exercicios.md)**
 
 ---
 
-[← Anterior: História do Python](05-história-python.md) · [Glossário](00-glossário.md) · [Próximo: Variáveis e Tipos Básicos →](07-variáveis-tipos.md)
+[← Anterior: História do Python](05-historia-python.md) · [Glossário](00-glossario.md) · [Próximo: Variáveis e Tipos Básicos →](07-variaveis-tipos.md)

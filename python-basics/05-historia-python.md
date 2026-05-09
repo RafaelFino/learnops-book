@@ -1,6 +1,6 @@
 # 05 — História do Python e Suas Premissas
 
-[← Anterior: Execução, Permissões e Pastas](04-execução-permissões-pastas.md) · [Glossário](00-glossário.md) · [Próximo: Entrada e Saída de Dados →](06-entrada-saida.md)
+[← Anterior: Execução, Permissões e Pastas](04-execucao-permissoes-pastas.md) · [Glossário](00-glossario.md) · [Próximo: Entrada e Saída de Dados →](06-entrada-saida.md)
 
 ---
 
@@ -199,4 +199,4 @@ R: É o grupo global de pessoas que usam, desenvolvem e ensinam Python. Inclui f
 
 ---
 
-[← Anterior: Execução, Permissões e Pastas](04-execução-permissões-pastas.md) · [Glossário](00-glossário.md) · [Próximo: Entrada e Saída de Dados →](06-entrada-saida.md)
+[← Anterior: Execução, Permissões e Pastas](04-execucao-permissoes-pastas.md) · [Glossário](00-glossario.md) · [Próximo: Entrada e Saída de Dados →](06-entrada-saida.md)

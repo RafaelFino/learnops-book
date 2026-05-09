@@ -1,6 +1,6 @@
 # Exercícios de Lógica — Parte 5: Manipulação de Strings
 
-[<- Parte 4](16-exercícios-lógica-parte4.md) | [Voltar ao Módulo 16](16-exercícios-lógica.md)
+[<- Parte 4](16-exercicios-logica-parte4.md) | [Voltar ao Módulo 16](16-exercicios-logica.md)
 
 ---
 
@@ -243,4 +243,4 @@ print(f"Sigla: {generate_acronym('Organizacao das Nacoes Unidas')}")
 
 ---
 
-[<- Parte 4](16-exercícios-lógica-parte4.md) | [Voltar ao Módulo 16](16-exercícios-lógica.md)
+[<- Parte 4](16-exercicios-logica-parte4.md) | [Voltar ao Módulo 16](16-exercicios-logica.md)

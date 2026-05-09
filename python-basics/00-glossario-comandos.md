@@ -1,6 +1,6 @@
 # Referência Rápida — Comandos e Funções Python
 
-[← Voltar ao índice do Glossário](00-glossário.md)
+[← Voltar ao índice do Glossário](00-glossario.md)
 
 Este arquivo é uma referência rápida dos comandos e funções mais usados do Python ao longo do curso. Consulte sempre que precisar lembrar como usar algo.
 
@@ -294,4 +294,4 @@ class ClassName:                 # definir classe
 
 ---
 
-[← Voltar ao índice do Glossário](00-glossário.md)
+[← Voltar ao índice do Glossário](00-glossario.md)

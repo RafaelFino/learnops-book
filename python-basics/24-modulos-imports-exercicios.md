@@ -1,6 +1,6 @@
 # Exercícios — Módulo 24: Módulos e Imports
 
-[<- Voltar ao Módulo 24](24-módulos-imports.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 24](24-modulos-imports.md) | [Glossário](00-glossario.md)
 
 > **Como testar:** Salve na pasta `~/meus-projetos/python-curso/modulo-24/` e execute com `python3 nome_do_arquivo.py`.
 
@@ -837,4 +837,4 @@ print(f"Preco com 10% de desconto: R$ {discounted_price:.2f}")
 
 ---
 
-[<- Voltar ao Módulo 24](24-módulos-imports.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 24](24-modulos-imports.md) | [Glossário](00-glossario.md)

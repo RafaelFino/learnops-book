@@ -1,6 +1,6 @@
 # 25 — Estruturação de Projetos: Organizando Arquivos e Pastas em Python
 
-[<- Anterior: Módulos e Imports](24-módulos-imports.md) | [Glossário](00-glossário.md) | [Próximo: pip e Dependências ->](26-pip-dependências.md)
+[<- Anterior: Módulos e Imports](24-modulos-imports.md) | [Glossário](00-glossario.md) | [Próximo: pip e Dependências ->](26-pip-dependencias.md)
 
 ---
 
@@ -20,7 +20,7 @@ Neste módulo, você vai aprender:
 - Como separar responsabilidades: dados, lógica e interface
 - Boas práticas que profissionais usam no dia a dia
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) sempre que encontrar um termo desconhecido.
+> **Dica:** Consulte o [Glossário](00-glossario.md) sempre que encontrar um termo desconhecido.
 
 ---
 
@@ -960,8 +960,8 @@ R: O `main.py` (main = principal) e o arquivo que serve como ponto de entrada do
 
 Os exercícios deste módulo estão em um arquivo separado para facilitar a navegação.
 
-[Ir para os Exercícios do Módulo 25](25-estruturação-projetos-exercícios.md)
+[Ir para os Exercícios do Módulo 25](25-estruturacao-projetos-exercicios.md)
 
 ---
 
-[<- Anterior: Módulos e Imports](24-módulos-imports.md) | [Glossário](00-glossário.md) | [Próximo: pip e Dependências ->](26-pip-dependências.md)
+[<- Anterior: Módulos e Imports](24-modulos-imports.md) | [Glossário](00-glossario.md) | [Próximo: pip e Dependências ->](26-pip-dependencias.md)

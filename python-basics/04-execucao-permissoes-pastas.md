@@ -1,6 +1,6 @@
 # 04 — Execução de Programas Python, Permissões e Estrutura de Pastas
 
-[← Anterior: Preparação do Ambiente](03-preparacao-ambiente.md) · [Glossário](00-glossário.md) · [Próximo: História do Python →](05-história-python.md)
+[← Anterior: Preparação do Ambiente](03-preparacao-ambiente.md) · [Glossário](00-glossario.md) · [Próximo: História do Python →](05-historia-python.md)
 
 ---
 
@@ -132,7 +132,7 @@ Os primeiros caracteres (`-rw-rw-r--`) mostram as permissões:
 
 ### Alterando permissões com chmod
 
-O comando [chmod](00-glossário-a-d.md#chmod) ("change mode" = mudar modo) altera as permissões de um arquivo.
+O comando [chmod](00-glossario-a-d.md#chmod) ("change mode" = mudar modo) altera as permissões de um arquivo.
 
 **Para dar permissão de execução:**
 
@@ -314,4 +314,4 @@ R: Significa que você não tem permissão para executar aquela ação. Tente ad
 
 ---
 
-[← Anterior: Preparação do Ambiente](03-preparacao-ambiente.md) · [Glossário](00-glossário.md) · [Próximo: História do Python →](05-história-python.md)
+[← Anterior: Preparação do Ambiente](03-preparacao-ambiente.md) · [Glossário](00-glossario.md) · [Próximo: História do Python →](05-historia-python.md)

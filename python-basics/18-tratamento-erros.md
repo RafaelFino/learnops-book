@@ -1,6 +1,6 @@
 # 18 — Tratamento de Erros: try, except, finally
 
-[<- Anterior: Debugging](17-debugging.md) | [Glossário](00-glossário.md) | [Próximo: Estruturas de Dados ->](19-estruturas-dados.md)
+[<- Anterior: Debugging](17-debugging.md) | [Glossário](00-glossario.md) | [Próximo: Estruturas de Dados ->](19-estruturas-dados.md)
 
 ---
 
@@ -12,7 +12,7 @@ Imagine que você esta cozinhando e percebe que falta um ingrediente. Você tem 
 
 Em Python, usamos as estruturas `try`, `except`, `else` e `finally` para tratar erros em tempo de execução (chamados de **exceções**).
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) sempre que encontrar um termo desconhecido.
+> **Dica:** Consulte o [Glossário](00-glossario.md) sempre que encontrar um termo desconhecido.
 
 ---
 
@@ -316,8 +316,8 @@ R: Sim! Saber quando e onde usar try/except vem com experiência. Comece tratand
 
 Os exercícios deste módulo estão em um arquivo separado:
 
-**[Acessar Exercícios do Módulo 18](18-tratamento-erros-exercícios.md)**
+**[Acessar Exercícios do Módulo 18](18-tratamento-erros-exercicios.md)**
 
 ---
 
-[<- Anterior: Debugging](17-debugging.md) | [Glossário](00-glossário.md) | [Próximo: Estruturas de Dados ->](19-estruturas-dados.md)
+[<- Anterior: Debugging](17-debugging.md) | [Glossário](00-glossario.md) | [Próximo: Estruturas de Dados ->](19-estruturas-dados.md)

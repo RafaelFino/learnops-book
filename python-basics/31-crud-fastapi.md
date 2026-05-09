@@ -1,6 +1,6 @@
 # 31 — CRUD com FastAPI: Interface HTTP para o Cadastro de Produtos
 
-[<- Anterior: CRUD com SQLite](30-crud-sqlite.md) | [Glossário](00-glossário.md) | [Próximo: CRUD com Swagger ->](32-crud-swagger.md)
+[<- Anterior: CRUD com SQLite](30-crud-sqlite.md) | [Glossário](00-glossario.md) | [Próximo: CRUD com Swagger ->](32-crud-swagger.md)
 
 ---
 
@@ -38,7 +38,7 @@ Os "pedidos" sao feitos usando **métodos HTTP**:
 - Válida os dados automaticamente
 - E muito popular no mercado de trabalho
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) sempre que encontrar um termo desconhecido.
+> **Dica:** Consulte o [Glossário](00-glossario.md) sempre que encontrar um termo desconhecido.
 
 ---
 
@@ -641,4 +641,4 @@ R: Sim. O FastAPI e um projeto open source (código aberto) e totalmente gratuit
 
 Os exercícios deste módulo estão em um arquivo separado para facilitar a navegação:
 
-[Ir para os Exercícios do Módulo 31 ->](31-crud-fastapi-exercícios.md)
+[Ir para os Exercícios do Módulo 31 ->](31-crud-fastapi-exercicios.md)

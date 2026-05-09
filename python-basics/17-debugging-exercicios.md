@@ -1,6 +1,6 @@
 # Exercícios — Módulo 17: Debugging Básico
 
-[<- Voltar ao Módulo 17](17-debugging.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 17](17-debugging.md) | [Glossário](00-glossario.md)
 
 > **Como usar estes exercícios:**
 > Neste módulo, os exercícios sao diferentes: você recebe código com erros e precisa encontrar e corrigir. E como ser um detetive investigando pistas.
@@ -484,4 +484,4 @@ print(f"Media: {result}")  # <-- CORRECAO 4: "reslt" corrigido para "result"
 
 ---
 
-[<- Voltar ao Módulo 17](17-debugging.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 17](17-debugging.md) | [Glossário](00-glossario.md)

@@ -1,6 +1,6 @@
 # Exercícios — Módulo 06: Entrada e Saída de Dados
 
-[← Voltar ao Módulo 06](06-entrada-saida.md) · [Glossário](00-glossário.md)
+[← Voltar ao Módulo 06](06-entrada-saida.md) · [Glossário](00-glossario.md)
 
 > **Como usar estes exercícios:**
 > 1. Leia o enunciado com atenção
@@ -609,4 +609,4 @@ print("============================")
 
 ---
 
-[← Voltar ao Módulo 06](06-entrada-saida.md) · [Glossário](00-glossário.md)
+[← Voltar ao Módulo 06](06-entrada-saida.md) · [Glossário](00-glossario.md)

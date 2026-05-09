@@ -1,6 +1,6 @@
 # Exercícios — Módulo 18: Tratamento de Erros
 
-[<- Voltar ao Módulo 18](18-tratamento-erros.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 18](18-tratamento-erros.md) | [Glossário](00-glossario.md)
 
 > **Como usar estes exercícios:**
 > 1. Leia o enunciado com atenção
@@ -442,4 +442,4 @@ print(f"Preco: R$ {price}")
 
 ---
 
-[<- Voltar ao Módulo 18](18-tratamento-erros.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 18](18-tratamento-erros.md) | [Glossário](00-glossario.md)

@@ -1,6 +1,6 @@
 # 21 — Manipulação JSON: Leitura e Escrita com o Módulo json
 
-[<- Anterior: Leitura e Escrita de Arquivos](20-leitura-escrita-arquivos.md) | [Glossário](00-glossário.md) | [Próximo: Classes e Objetos ->](22-classes-objetos.md)
+[<- Anterior: Leitura e Escrita de Arquivos](20-leitura-escrita-arquivos.md) | [Glossário](00-glossario.md) | [Próximo: Classes e Objetos ->](22-classes-objetos.md)
 
 ---
 
@@ -21,7 +21,7 @@ Neste módulo, você vai aprender a:
 - **Formatar** JSON para ficar legivel
 - **Tratar erros** quando o JSON esta inválido
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) sempre que encontrar um termo desconhecido.
+> **Dica:** Consulte o [Glossário](00-glossario.md) sempre que encontrar um termo desconhecido.
 
 ---
 
@@ -1028,8 +1028,8 @@ R: Sim! Essa e uma otima dica. Em vez de usar `print(dicionario)`, você pode us
 
 Pratique o que aprendeu com os exercícios do módulo:
 
-[Exercícios do Módulo 21 — Manipulação JSON](21-manipulação-json-exercícios.md)
+[Exercícios do Módulo 21 — Manipulação JSON](21-manipulacao-json-exercicios.md)
 
 ---
 
-[<- Anterior: Leitura e Escrita de Arquivos](20-leitura-escrita-arquivos.md) | [Glossário](00-glossário.md) | [Próximo: Classes e Objetos ->](22-classes-objetos.md)
+[<- Anterior: Leitura e Escrita de Arquivos](20-leitura-escrita-arquivos.md) | [Glossário](00-glossario.md) | [Próximo: Classes e Objetos ->](22-classes-objetos.md)

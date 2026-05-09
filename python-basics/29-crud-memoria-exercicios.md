@@ -1,6 +1,6 @@
 # 29 — Exercícios: CRUD em Memória
 
-[<- Voltar para o módulo](29-crud-memória.md) | [Glossário](00-glossário.md)
+[<- Voltar para o módulo](29-crud-memoria.md) | [Glossário](00-glossario.md)
 
 ---
 

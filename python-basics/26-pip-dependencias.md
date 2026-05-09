@@ -1,6 +1,6 @@
 # 26 — pip e Gerenciamento de Dependências
 
-[<- Anterior: Estruturação de Projetos](25-estruturação-projetos.md) | [Glossário](00-glossário.md) | [Próximo: Boas Práticas ->](27-boas-práticas.md)
+[<- Anterior: Estruturação de Projetos](25-estruturacao-projetos.md) | [Glossário](00-glossario.md) | [Próximo: Boas Práticas ->](27-boas-praticas.md)
 
 ---
 
@@ -21,7 +21,7 @@ Neste módulo, você vai aprender:
 - Como usar o arquivo `requirements.txt` para gerenciar dependências
 - Exemplos práticos com pacotes populares como `requests`
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) sempre que encontrar um termo desconhecido.
+> **Dica:** Consulte o [Glossário](00-glossario.md) sempre que encontrar um termo desconhecido.
 
 ---
 
@@ -814,7 +814,7 @@ Existem milhares de pacotes disponiveis no PyPI. Aqui estão alguns dos mais pop
 - [Real Python — Virtual Environments (em ingles)](https://realpython.com/python-virtual-environments-a-primer/)
   _Um guia detalhado sobre ambientes virtuais para quem quiser se aprofundar_
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) para revisar termos como "pacote", "dependência", "ambiente virtual" e outros conceitos deste módulo.
+> **Dica:** Consulte o [Glossário](00-glossario.md) para revisar termos como "pacote", "dependência", "ambiente virtual" e outros conceitos deste módulo.
 
 ---
 
@@ -909,8 +909,8 @@ Aqui esta uma tabela de referência rapida com todos os comandos que você apren
 
 ## Exercícios de Fixacao
 
-Os exercícios deste módulo estão no arquivo separado: [Exercícios — pip e Dependências](26-pip-dependências-exercícios.md)
+Os exercícios deste módulo estão no arquivo separado: [Exercícios — pip e Dependências](26-pip-dependencias-exercicios.md)
 
 ---
 
-[<- Anterior: Estruturação de Projetos](25-estruturação-projetos.md) | [Glossário](00-glossário.md) | [Próximo: Boas Práticas ->](27-boas-práticas.md)
+[<- Anterior: Estruturação de Projetos](25-estruturacao-projetos.md) | [Glossário](00-glossario.md) | [Próximo: Boas Práticas ->](27-boas-praticas.md)

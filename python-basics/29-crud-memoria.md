@@ -1,6 +1,6 @@
 # 29 — CRUD em Memória: Cadastro de Produtos com Listas e Dicionários
 
-[<- Anterior: Modelagem de Dados](28-modelagem-dados.md) | [Glossário](00-glossário.md) | [Próximo: CRUD com SQLite ->](30-crud-sqlite.md)
+[<- Anterior: Modelagem de Dados](28-modelagem-dados.md) | [Glossário](00-glossario.md) | [Próximo: CRUD com SQLite ->](30-crud-sqlite.md)
 
 ---
 
@@ -19,7 +19,7 @@ O CRUD e um dos padrões mais importantes da programação. Praticamente todo si
 
 Neste módulo, você vai construir a **primeira versão** do CRUD, armazenando os dados em **listas e dicionários na memória** do programa. Isso significa que, quando o programa fechar, os dados serao perdidos. No próximo módulo (30), você vai aprender a salvar os dados em um banco de dados para que eles persistam.
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) sempre que encontrar um termo desconhecido.
+> **Dica:** Consulte o [Glossário](00-glossario.md) sempre que encontrar um termo desconhecido.
 
 ---
 
@@ -999,4 +999,4 @@ R: Sao especificadores de alinhamento em f-strings. `:<5` alinha o texto a esque
 
 Os exercícios deste módulo estão em um arquivo separado para facilitar a navegação:
 
-[Ir para os Exercícios do Módulo 29 ->](29-crud-memória-exercícios.md)
+[Ir para os Exercícios do Módulo 29 ->](29-crud-memoria-exercicios.md)

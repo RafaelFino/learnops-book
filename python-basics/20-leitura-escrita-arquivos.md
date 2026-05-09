@@ -1,6 +1,6 @@
 # 20 — Leitura e Escrita de Arquivos: .txt e .csv
 
-[<- Anterior: Estruturas de Dados](19-estruturas-dados.md) | [Glossário](00-glossário.md) | [Próximo: Manipulação JSON ->](21-manipulação-json.md)
+[<- Anterior: Estruturas de Dados](19-estruturas-dados.md) | [Glossário](00-glossario.md) | [Próximo: Manipulação JSON ->](21-manipulacao-json.md)
 
 ---
 
@@ -21,7 +21,7 @@ Neste módulo, você vai aprender a:
 - Trabalhar com **CSV** (formato de tabelas simples)
 - **Tratar erros** comuns ao trabalhar com arquivos
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) sempre que encontrar um termo desconhecido.
+> **Dica:** Consulte o [Glossário](00-glossario.md) sempre que encontrar um termo desconhecido.
 
 ---
 
@@ -925,8 +925,8 @@ R: Sim, completamente normal! Trabalhar com arquivos envolve entender o sistema 
 
 Pratique o que aprendeu com os exercícios do módulo:
 
-[Exercícios do Módulo 20 — Leitura e Escrita de Arquivos](20-leitura-escrita-arquivos-exercícios.md)
+[Exercícios do Módulo 20 — Leitura e Escrita de Arquivos](20-leitura-escrita-arquivos-exercicios.md)
 
 ---
 
-[<- Anterior: Estruturas de Dados](19-estruturas-dados.md) | [Glossário](00-glossário.md) | [Próximo: Manipulação JSON ->](21-manipulação-json.md)
+[<- Anterior: Estruturas de Dados](19-estruturas-dados.md) | [Glossário](00-glossario.md) | [Próximo: Manipulação JSON ->](21-manipulacao-json.md)

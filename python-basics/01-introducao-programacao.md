@@ -1,6 +1,6 @@
 # 01 — Introdução à Programação
 
-[← Voltar ao README](readme.md) · [Glossário](00-glossário.md) · [Próximo: Scripts, Compilados e VM →](02-scripts-compilados-vm.md)
+[← Voltar ao README](readme.md) · [Glossário](00-glossario.md) · [Próximo: Scripts, Compilados e VM →](02-scripts-compilados-vm.md)
 
 ---
 
@@ -47,7 +47,7 @@ Todos esses programas foram escritos por pessoas — programadores — usando li
 
 ## O que é um Algoritmo?
 
-Um [algoritmo](00-glossário-a-d.md#algoritmo) é uma **sequência de passos ordenados** para resolver um problema ou realizar uma tarefa. Você já usa algoritmos no dia a dia sem perceber!
+Um [algoritmo](00-glossario-a-d.md#algoritmo) é uma **sequência de passos ordenados** para resolver um problema ou realizar uma tarefa. Você já usa algoritmos no dia a dia sem perceber!
 
 ### Exemplo 1: Receita de café
 
@@ -77,7 +77,7 @@ Na programação, um algoritmo é a mesma coisa: uma sequência de instruções 
 
 ## O que é Programação?
 
-**Programar** é o ato de escrever instruções (algoritmos) em uma [linguagem de programação](00-glossário-j-p.md#linguagem-de-programação) para que o computador execute uma tarefa.
+**Programar** é o ato de escrever instruções (algoritmos) em uma [linguagem de programação](00-glossario-j-p.md#linguagem-de-programação) para que o computador execute uma tarefa.
 
 É como ser um **autor de receitas**: você pensa no que quer que o computador faça, planeja os passos necessários e escreve esses passos em uma linguagem que o computador entende.
 
@@ -155,7 +155,7 @@ R: Sim! Os módulos 03 e 04 explicam passo a passo como usar o terminal e o edit
 R: Depende do seu ritmo, e cada pessoa tem o seu. O importante é estudar com consistência — um pouco por dia é melhor do que muito de uma vez. Não existe pressa.
 
 **P: E se eu não entender algo de primeira?**
-R: Isso é completamente normal! Até programadores experientes precisam reler conceitos. Releia o módulo, consulte o [glossário](00-glossário.md) e, se precisar, peça ajuda ao professor. Não existe pergunta boba.
+R: Isso é completamente normal! Até programadores experientes precisam reler conceitos. Releia o módulo, consulte o [glossário](00-glossario.md) e, se precisar, peça ajuda ao professor. Não existe pergunta boba.
 
 **P: Programar é difícil?**
 R: Programar tem seus desafios, como qualquer habilidade nova. Mas com prática e paciência, se torna cada vez mais natural. Pense em quando você aprendeu a cozinhar ou a andar de bicicleta — no início parecia impossível, mas hoje é automático.
@@ -179,7 +179,7 @@ R: Você pode ler o material no celular, mas para praticar programação você p
 R: Errar é a melhor forma de aprender! Programadores profissionais erram dezenas de vezes por dia. Cada erro é uma oportunidade de entender melhor como as coisas funcionam.
 
 **P: Preciso decorar todos os comandos?**
-R: Não! Programadores profissionais consultam documentação e referências o tempo todo. O importante é entender os conceitos — os comandos você pode consultar no [glossário](00-glossário.md).
+R: Não! Programadores profissionais consultam documentação e referências o tempo todo. O importante é entender os conceitos — os comandos você pode consultar no [glossário](00-glossario.md).
 
 **P: O que acontece se eu pular um módulo?**
 R: Cada módulo depende dos anteriores. Pular um módulo é como pular um degrau da escada — você pode tropeçar nos seguintes. Siga a ordem recomendada.
@@ -204,4 +204,4 @@ R: É normal sentir vontade de desistir quando algo parece difícil. Quando isso
 
 ---
 
-[← Voltar ao README](readme.md) · [Glossário](00-glossário.md) · [Próximo: Scripts, Compilados e VM →](02-scripts-compilados-vm.md)
+[← Voltar ao README](readme.md) · [Glossário](00-glossario.md) · [Próximo: Scripts, Compilados e VM →](02-scripts-compilados-vm.md)

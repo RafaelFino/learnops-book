@@ -1,6 +1,6 @@
 # 30 — CRUD com SQLite: Persistência de Dados em Banco de Dados
 
-[<- Anterior: CRUD em Memória](29-crud-memória.md) | [Glossário](00-glossário.md) | [Próximo: CRUD com FastAPI ->](31-crud-fastapi.md)
+[<- Anterior: CRUD em Memória](29-crud-memoria.md) | [Glossário](00-glossario.md) | [Próximo: CRUD com FastAPI ->](31-crud-fastapi.md)
 
 ---
 
@@ -30,7 +30,7 @@ Caracteristicas do SQLite:
 
 > **Nota importante sobre SQL:** Este módulo foca na **integração Python-SQLite**, não no ensino de SQL. Os comandos SQL necessários serao fornecidos e explicados nos exemplos e exercícios. Você não precisa decorar SQL — o importante e entender como o Python se comunica com o banco de dados.
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) sempre que encontrar um termo desconhecido.
+> **Dica:** Consulte o [Glossário](00-glossario.md) sempre que encontrar um termo desconhecido.
 
 ---
 
@@ -925,4 +925,4 @@ R: Sim. Você pode usar o comando `sqlite3` no terminal (se estiver instalado) o
 
 Os exercícios deste módulo estão em um arquivo separado para facilitar a navegação:
 
-[Ir para os Exercícios do Módulo 30 ->](30-crud-sqlite-exercícios.md)
+[Ir para os Exercícios do Módulo 30 ->](30-crud-sqlite-exercicios.md)

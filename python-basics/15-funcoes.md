@@ -1,6 +1,6 @@
 # 15 — Funções: Conceitos de Entrada e Saida
 
-[<- Anterior: Controles de Repetição](14-controles-repetição.md) | [Glossário](00-glossário.md) | [Próximo: Exercícios de Lógica ->](16-exercícios-lógica.md)
+[<- Anterior: Controles de Repetição](14-controles-repeticao.md) | [Glossário](00-glossario.md) | [Próximo: Exercícios de Lógica ->](16-exercicios-logica.md)
 
 ---
 
@@ -12,7 +12,7 @@ Funções resolvem esse problema. Uma **função** e um bloco de código reutili
 
 Esse principio tem um nome em programação: **DRY** — "Don't Repeat Yourself" (Não Se Repita). Em vez de repetir código, crie uma função.
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) sempre que encontrar um termo desconhecido.
+> **Dica:** Consulte o [Glossário](00-glossario.md) sempre que encontrar um termo desconhecido.
 
 ---
 
@@ -225,7 +225,7 @@ Com 20%: R$ 80.0
 
 ## Escopo de Variáveis — Local vs Global
 
-O [escopo](00-glossário-e-i.md#escopo-de-variável) define onde uma variável existe e pode ser acessada. Em Python, existem dois escopos principais:
+O [escopo](00-glossario-e-i.md#escopo-de-variável) define onde uma variável existe e pode ser acessada. Em Python, existem dois escopos principais:
 
 - **Escopo local**: variáveis criadas dentro de uma função. So existem dentro daquela função.
 - **Escopo global**: variáveis criadas fora de funções. Podem ser acessadas em qualquer lugar.
@@ -419,8 +419,8 @@ R: Sim, funções sao um salto conceitual importante. A ideia de "definir agora,
 
 Os exercícios deste módulo estão em um arquivo separado. Este e um módulo complexo — os exercícios sao mais numerosos e progressivos.
 
-**[Acessar Exercícios do Módulo 15](15-funções-exercícios.md)**
+**[Acessar Exercícios do Módulo 15](15-funcoes-exercicios.md)**
 
 ---
 
-[<- Anterior: Controles de Repetição](14-controles-repetição.md) | [Glossário](00-glossário.md) | [Próximo: Exercícios de Lógica ->](16-exercícios-lógica.md)
+[<- Anterior: Controles de Repetição](14-controles-repeticao.md) | [Glossário](00-glossario.md) | [Próximo: Exercícios de Lógica ->](16-exercicios-logica.md)

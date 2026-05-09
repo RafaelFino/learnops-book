@@ -1,6 +1,6 @@
 # Exercícios — Módulo 14: Controles de Repetição
 
-[<- Voltar ao Módulo 14](14-controles-repetição.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 14](14-controles-repeticao.md) | [Glossário](00-glossario.md)
 
 > **Como usar estes exercícios:**
 > 1. Leia o enunciado com atenção
@@ -627,4 +627,4 @@ print(f"Total: R$ {total}")
 
 ---
 
-[<- Voltar ao Módulo 14](14-controles-repetição.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 14](14-controles-repeticao.md) | [Glossário](00-glossario.md)

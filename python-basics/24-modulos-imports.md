@@ -1,6 +1,6 @@
 # 24 — Módulos e Imports: Reutilizando Código em Python
 
-[<- Anterior: Exercícios Integradores](23-exercícios-integradores.md) | [Glossário](00-glossário.md) | [Próximo: Estruturação de Projetos ->](25-estruturação-projetos.md)
+[<- Anterior: Exercícios Integradores](23-exercicios-integradores.md) | [Glossário](00-glossario.md) | [Próximo: Estruturação de Projetos ->](25-estruturacao-projetos.md)
 
 ---
 
@@ -20,7 +20,7 @@ Neste módulo, você vai aprender:
 - A diferença entre importacao absoluta e relativa
 - O papel do arquivo `__init__.py`
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) sempre que encontrar um termo desconhecido.
+> **Dica:** Consulte o [Glossário](00-glossario.md) sempre que encontrar um termo desconhecido.
 
 ---
 
@@ -1001,8 +1001,8 @@ R: A PEP 8 (guia de estilo do Python) recomenda organizar os imports em tres gru
 
 Os exercícios deste módulo estão em um arquivo separado para facilitar a navegação.
 
-[Ir para os Exercícios do Módulo 24 ->](24-módulos-imports-exercícios.md)
+[Ir para os Exercícios do Módulo 24 ->](24-modulos-imports-exercicios.md)
 
 ---
 
-[<- Anterior: Exercícios Integradores](23-exercícios-integradores.md) | [Glossário](00-glossário.md) | [Próximo: Estruturação de Projetos ->](25-estruturação-projetos.md)
+[<- Anterior: Exercícios Integradores](23-exercicios-integradores.md) | [Glossário](00-glossario.md) | [Próximo: Estruturação de Projetos ->](25-estruturacao-projetos.md)

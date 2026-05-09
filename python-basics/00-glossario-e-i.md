@@ -1,6 +1,6 @@
 # Glossário — Letras E a I
 
-[← Voltar ao índice do Glossário](00-glossário.md) · [← Anterior: A-D](00-glossário-a-d.md)
+[← Voltar ao índice do Glossário](00-glossario.md) · [← Anterior: A-D](00-glossario-a-d.md)
 
 ---
 
@@ -179,4 +179,4 @@ Cada repetição (volta) de um loop. Se um loop executa 5 vezes, ele faz 5 itera
 
 ---
 
-[← Voltar ao índice do Glossário](00-glossário.md) · [← Anterior: A-D](00-glossário-a-d.md) · [Próximo: J-P →](00-glossário-j-p.md)
+[← Voltar ao índice do Glossário](00-glossario.md) · [← Anterior: A-D](00-glossario-a-d.md) · [Próximo: J-P →](00-glossario-j-p.md)

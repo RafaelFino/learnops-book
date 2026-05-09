@@ -1,6 +1,6 @@
 # 16 — Exercícios Extensivos de Lógica de Programação
 
-[<- Anterior: Funções](15-funções.md) | [Glossário](00-glossário.md) | [Próximo: Debugging ->](17-debugging.md)
+[<- Anterior: Funções](15-funcoes.md) | [Glossário](00-glossario.md) | [Próximo: Debugging ->](17-debugging.md)
 
 ---
 
@@ -14,7 +14,7 @@ Cada exercício indica quais conceitos sao praticados, tem dicas de como pensar 
 
 Os exercícios estão organizados em categorias e em ordem crescente de dificuldade dentro de cada categoria. Não se preocupe se não conseguir resolver todos de primeira — volte aos módulos anteriores quando precisar e tente novamente. A persistência e a melhor ferramenta de um programador.
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) e os módulos anteriores sempre que precisar relembrar um conceito.
+> **Dica:** Consulte o [Glossário](00-glossario.md) e os módulos anteriores sempre que precisar relembrar um conceito.
 
 ---
 
@@ -122,16 +122,16 @@ R: Muito normal. Programação e desafiadora e frustracao faz parte do processo.
 
 Os exercícios deste módulo estão divididos em arquivos separados por categoria para facilitar a navegação:
 
-**[Parte 1 — Validação de Dados (Exercícios 1-5)](16-exercícios-lógica-parte1.md)**
+**[Parte 1 — Validação de Dados (Exercícios 1-5)](16-exercicios-logica-parte1.md)**
 
-**[Parte 2 — Processamento de Listas (Exercícios 6-10)](16-exercícios-lógica-parte2.md)**
+**[Parte 2 — Processamento de Listas (Exercícios 6-10)](16-exercicios-logica-parte2.md)**
 
-**[Parte 3 — Contadores e Acumuladores (Exercícios 11-15)](16-exercícios-lógica-parte3.md)**
+**[Parte 3 — Contadores e Acumuladores (Exercícios 11-15)](16-exercicios-logica-parte3.md)**
 
-**[Parte 4 — Busca e Filtragem (Exercícios 16-20)](16-exercícios-lógica-parte4.md)**
+**[Parte 4 — Busca e Filtragem (Exercícios 16-20)](16-exercicios-logica-parte4.md)**
 
-**[Parte 5 — Manipulação de Strings (Exercícios 21-25)](16-exercícios-lógica-parte5.md)**
+**[Parte 5 — Manipulação de Strings (Exercícios 21-25)](16-exercicios-logica-parte5.md)**
 
 ---
 
-[<- Anterior: Funções](15-funções.md) | [Glossário](00-glossário.md) | [Próximo: Debugging ->](17-debugging.md)
+[<- Anterior: Funções](15-funcoes.md) | [Glossário](00-glossario.md) | [Próximo: Debugging ->](17-debugging.md)

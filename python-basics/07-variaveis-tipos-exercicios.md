@@ -1,6 +1,6 @@
 # Exercícios — Módulo 07: Variáveis e Tipos Básicos
 
-[<- Voltar ao Módulo 07](07-variáveis-tipos.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 07](07-variaveis-tipos.md) | [Glossário](00-glossario.md)
 
 > **Como usar estes exercícios:**
 > 1. Leia o enunciado com atenção
@@ -559,4 +559,4 @@ print("Porcentagem gasta:", spent_percentage, "%")
 
 ---
 
-[<- Voltar ao Módulo 07](07-variáveis-tipos.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 07](07-variaveis-tipos.md) | [Glossário](00-glossario.md)

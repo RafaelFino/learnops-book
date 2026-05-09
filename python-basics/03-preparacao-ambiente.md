@@ -1,6 +1,6 @@
 # 03 — Preparação do Ambiente de Desenvolvimento
 
-[← Anterior: Scripts, Compilados e VM](02-scripts-compilados-vm.md) · [Glossário](00-glossário.md) · [Próximo: Execução, Permissões e Pastas →](04-execução-permissões-pastas.md)
+[← Anterior: Scripts, Compilados e VM](02-scripts-compilados-vm.md) · [Glossário](00-glossario.md) · [Próximo: Execução, Permissões e Pastas →](04-execucao-permissoes-pastas.md)
 
 ---
 
@@ -19,7 +19,7 @@ Todas as instruções são para o sistema operacional **Linux**. Cada passo ser�
 
 ## O que é o Terminal?
 
-O [terminal](00-glossário-q-z.md#terminal) é um programa que permite você "conversar" com o computador digitando comandos de texto. Em vez de clicar em botões e ícones, você escreve o que quer que o computador faça.
+O [terminal](00-glossario-q-z.md#terminal) é um programa que permite você "conversar" com o computador digitando comandos de texto. Em vez de clicar em botões e ícones, você escreve o que quer que o computador faça.
 
 Pode parecer estranho no início, mas o terminal é uma ferramenta muito poderosa que programadores usam todos os dias.
 
@@ -107,7 +107,7 @@ Agora deve aparecer a versão do Python instalada.
 
 ## Passo 3: Instalar o VSCode
 
-O [VSCode](00-glossário-q-z.md#vscode-visual-studio-code) (Visual Studio Code) é o editor de código que vamos usar para escrever nossos programas. Ele é gratuito, popular e tem muitas funcionalidades que facilitam a programação.
+O [VSCode](00-glossario-q-z.md#vscode-visual-studio-code) (Visual Studio Code) é o editor de código que vamos usar para escrever nossos programas. Ele é gratuito, popular e tem muitas funcionalidades que facilitam a programação.
 
 ### Opção A: Instalar pelo terminal (recomendado)
 
@@ -313,4 +313,4 @@ R: Sim! O VSCode tem muitos temas de cores. Vá em File → Preferences → Colo
 
 ---
 
-[← Anterior: Scripts, Compilados e VM](02-scripts-compilados-vm.md) · [Glossário](00-glossário.md) · [Próximo: Execução, Permissões e Pastas →](04-execução-permissões-pastas.md)
+[← Anterior: Scripts, Compilados e VM](02-scripts-compilados-vm.md) · [Glossário](00-glossario.md) · [Próximo: Execução, Permissões e Pastas →](04-execucao-permissoes-pastas.md)

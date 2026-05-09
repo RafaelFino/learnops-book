@@ -1,6 +1,6 @@
 # 07 — Variáveis e Tipos Básicos
 
-[<- Anterior: Entrada e Saida de Dados](06-entrada-saida.md) | [Glossário](00-glossário.md) | [Próximo: Conversão de Tipos ->](08-conversão-tipos.md)
+[<- Anterior: Entrada e Saida de Dados](06-entrada-saida.md) | [Glossário](00-glossario.md) | [Próximo: Conversão de Tipos ->](08-conversao-tipos.md)
 
 ---
 
@@ -10,7 +10,7 @@ No módulo anterior, você aprendeu a usar `input()` e `print()` para conversar 
 
 Imagine que você esta organizando uma mudanca. Você tem várias caixas, e em cada caixa coloca um tipo de objeto diferente: roupas em uma, livros em outra, utensilios de cozinha em outra. Cada caixa tem uma **etiqueta** com o nome do que esta dentro. Em programação, essas caixas sao as **variáveis** — e as etiquetas sao os **nomes** que damos a elas.
 
-> **Dica:** Termos novos? Consulte o [Glossário](00-glossário.md) a qualquer momento.
+> **Dica:** Termos novos? Consulte o [Glossário](00-glossario.md) a qualquer momento.
 
 ---
 
@@ -27,7 +27,7 @@ Imagine que você esta organizando uma mudanca. Você tem várias caixas, e em c
 
 ## O que e uma Variável?
 
-Uma [variável](00-glossário-q-z.md#variável) e um espaco na memória do computador que guarda um valor e tem um nome. Você cria uma variável, da um nome a ela e coloca um valor dentro. Depois, pode usar esse nome para acessar o valor guardado.
+Uma [variável](00-glossario-q-z.md#variável) e um espaco na memória do computador que guarda um valor e tem um nome. Você cria uma variável, da um nome a ela e coloca um valor dentro. Depois, pode usar esse nome para acessar o valor guardado.
 
 Pense em uma variável como uma **caixa etiquetada**:
 
@@ -259,7 +259,7 @@ Nem todo nome e válido para uma variável em Python. Existem regras obrigatoria
 | CamelCase | `ProductManager`, `ShoppingCart` | Classes (vamos ver no módulo 22) |
 | MAIUSCULAS | `MAX_ATTEMPTS`, `TAX_RATE` | Constantes (valores que não mudam) |
 
-> **Nota:** [snake_case](00-glossário-q-z.md#snake_case) significa escrever tudo em minusculas e separar palavras com underscore (`_`). E o padrão do Python para variáveis e funções.
+> **Nota:** [snake_case](00-glossario-q-z.md#snake_case) significa escrever tudo em minusculas e separar palavras com underscore (`_`). E o padrão do Python para variáveis e funções.
 
 ```python
 # Bons nomes de variaveis (snake_case, descritivos)
@@ -383,8 +383,8 @@ R: Completamente normal. Com o tempo, você vai identificar os tipos naturalment
 
 Os exercícios deste módulo estão em um arquivo separado para facilitar a consulta:
 
-**[Acessar Exercícios do Módulo 07](07-variáveis-tipos-exercícios.md)**
+**[Acessar Exercícios do Módulo 07](07-variaveis-tipos-exercicios.md)**
 
 ---
 
-[<- Anterior: Entrada e Saida de Dados](06-entrada-saida.md) | [Glossário](00-glossário.md) | [Próximo: Conversão de Tipos ->](08-conversão-tipos.md)
+[<- Anterior: Entrada e Saida de Dados](06-entrada-saida.md) | [Glossário](00-glossario.md) | [Próximo: Conversão de Tipos ->](08-conversao-tipos.md)

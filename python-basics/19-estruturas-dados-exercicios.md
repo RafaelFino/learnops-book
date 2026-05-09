@@ -1,6 +1,6 @@
 # Exercícios — Módulo 19: Estruturas de Dados
 
-[<- Voltar ao Módulo 19](19-estruturas-dados.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 19](19-estruturas-dados.md) | [Glossário](00-glossario.md)
 
 > **Como usar estes exercícios:**
 > 1. Leia o enunciado com atenção
@@ -944,4 +944,4 @@ while True:
 
 ---
 
-[<- Voltar ao Módulo 19](19-estruturas-dados.md) | [Glossário](00-glossário.md)
+[<- Voltar ao Módulo 19](19-estruturas-dados.md) | [Glossário](00-glossario.md)

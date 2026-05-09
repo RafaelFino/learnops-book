@@ -1,6 +1,6 @@
 # 12 — Condicionais: if, elif e else
 
-[<- Anterior: Operadores](11-operadores.md) | [Glossário](00-glossário.md) | [Próximo: Seletores match/case ->](13-seletores-match-case.md)
+[<- Anterior: Operadores](11-operadores.md) | [Glossário](00-glossario.md) | [Próximo: Seletores match/case ->](13-seletores-match-case.md)
 
 ---
 
@@ -394,8 +394,8 @@ R: Muito normal! Condições sao um dos pontos onde mais se erra no inicio. Test
 
 Os exercícios deste módulo estão em um arquivo separado para facilitar a consulta. Este e um módulo complexo — os exercícios sao mais numerosos e progressivos.
 
-**[Acessar Exercícios do Módulo 12](12-condicionais-exercícios.md)**
+**[Acessar Exercícios do Módulo 12](12-condicionais-exercicios.md)**
 
 ---
 
-[<- Anterior: Operadores](11-operadores.md) | [Glossário](00-glossário.md) | [Próximo: Seletores match/case ->](13-seletores-match-case.md)
+[<- Anterior: Operadores](11-operadores.md) | [Glossário](00-glossario.md) | [Próximo: Seletores match/case ->](13-seletores-match-case.md)

@@ -1,6 +1,6 @@
 # Exercícios de Lógica — Parte 2: Processamento de Listas
 
-[<- Parte 1](16-exercícios-lógica-parte1.md) | [Voltar ao Módulo 16](16-exercícios-lógica.md) | [Parte 3 ->](16-exercícios-lógica-parte3.md)
+[<- Parte 1](16-exercicios-logica-parte1.md) | [Voltar ao Módulo 16](16-exercicios-logica.md) | [Parte 3 ->](16-exercicios-logica-parte3.md)
 
 > **Nota:** Listas serao aprofundadas no módulo 19. Aqui usamos listas de forma básica: uma coleção de itens entre colchetes `[]`. Você pode percorrer com `for item in lista:` e acessar por posição com `lista[0]`.
 
@@ -248,4 +248,4 @@ print(f"Sem duplicatas: {remove_duplicates([1, 1, 1])}")
 
 ---
 
-[<- Parte 1](16-exercícios-lógica-parte1.md) | [Voltar ao Módulo 16](16-exercícios-lógica.md) | [Parte 3 ->](16-exercícios-lógica-parte3.md)
+[<- Parte 1](16-exercicios-logica-parte1.md) | [Voltar ao Módulo 16](16-exercicios-logica.md) | [Parte 3 ->](16-exercicios-logica-parte3.md)

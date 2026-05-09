@@ -1,6 +1,6 @@
 # 11 — Operadores Logicos e Matematicos
 
-[<- Anterior: Indentacao e Escopo](10-indentacao-escopo.md) | [Glossário](00-glossário.md) | [Próximo: Condicionais ->](12-condicionais.md)
+[<- Anterior: Indentacao e Escopo](10-indentacao-escopo.md) | [Glossário](00-glossario.md) | [Próximo: Condicionais ->](12-condicionais.md)
 
 ---
 
@@ -12,7 +12,7 @@ Pense nos operadores como as ações que você faz na cozinha: cortar, misturar,
 
 Se você não tem muita familiaridade com matemática, não se preocupe. Cada operação sera explicada com calma, usando exemplos do dia a dia, antes de mostrar como funciona no Python.
 
-> **Dica:** Consulte o [Glossário](00-glossário.md) e a [Referência de Operadores](00-glossário-comandos.md#operadores-matematicos) sempre que precisar.
+> **Dica:** Consulte o [Glossário](00-glossario.md) e a [Referência de Operadores](00-glossario-comandos.md#operadores-matematicos) sempre que precisar.
 
 ---
 
@@ -116,7 +116,7 @@ Tipo do resultado: <class 'float'>
 
 ### Divisao Inteira (//) — Apenas a parte inteira
 
-A [divisao inteira](00-glossário-a-d.md#divisao-inteira) e como a divisao normal, mas descarta a parte decimal — fica apenas com o número inteiro. Imagine que você tem 7 pizzas para dividir entre 2 pessoas: cada uma fica com 3 pizzas inteiras (o pedaco que sobra e ignorado). Em Python, usamos `//`:
+A [divisao inteira](00-glossario-a-d.md#divisao-inteira) e como a divisao normal, mas descarta a parte decimal — fica apenas com o número inteiro. Imagine que você tem 7 pizzas para dividir entre 2 pessoas: cada uma fica com 3 pizzas inteiras (o pedaco que sobra e ignorado). Em Python, usamos `//`:
 
 ```python
 # Divisao inteira: resultado sem casas decimais
@@ -136,7 +136,7 @@ Pizzas inteiras por pessoa: 3
 
 ### Módulo (%) — O resto da divisao
 
-O [módulo](00-glossário-j-p.md#módulo-operação-matemática) retorna o **resto** de uma divisao. Quando você divide 10 balas entre 3 amigos, cada um fica com 3 balas e **sobra 1**. Esse 1 que sobra e o módulo. Em Python, usamos `%`:
+O [módulo](00-glossario-j-p.md#módulo-operação-matemática) retorna o **resto** de uma divisao. Quando você divide 10 balas entre 3 amigos, cada um fica com 3 balas e **sobra 1**. Esse 1 que sobra e o módulo. Em Python, usamos `%`:
 
 ```python
 # Modulo: o resto da divisao
@@ -158,7 +158,7 @@ Sobram 1 bala(s)
 
 ### Exponenciacao (**) — Potência
 
-A [exponenciacao](00-glossário-e-i.md#exponenciacao) e multiplicar um número por ele mesmo várias vezes. "2 elevado a 3" significa 2 vezes 2 vezes 2, que da 8. Em Python, usamos `**`:
+A [exponenciacao](00-glossario-e-i.md#exponenciacao) e multiplicar um número por ele mesmo várias vezes. "2 elevado a 3" significa 2 vezes 2 vezes 2, que da 8. Em Python, usamos `**`:
 
 ```python
 # Exponenciacao: multiplicar um numero por ele mesmo
@@ -467,8 +467,8 @@ R: Sim, especialmente módulo (`%`), divisao inteira (`//`) e exponenciacao (`**
 
 Os exercícios deste módulo estão em um arquivo separado para facilitar a consulta:
 
-**[Acessar Exercícios do Módulo 11](11-operadores-exercícios.md)**
+**[Acessar Exercícios do Módulo 11](11-operadores-exercicios.md)**
 
 ---
 
-[<- Anterior: Indentacao e Escopo](10-indentacao-escopo.md) | [Glossário](00-glossário.md) | [Próximo: Condicionais ->](12-condicionais.md)
+[<- Anterior: Indentacao e Escopo](10-indentacao-escopo.md) | [Glossário](00-glossario.md) | [Próximo: Condicionais ->](12-condicionais.md)
